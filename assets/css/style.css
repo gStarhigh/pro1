@@ -1,15 +1,21 @@
 /*Google fonts import*/
   @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
 
+
 /*Body elements*/
+
 body {
     padding: 0;
     margin: 0;
+    min-height: 3000px;
+    /*Remove the min-height element*/
 }
+
 h1, h2, p, a {
     font-family: 'Roboto', sans-serif;
     color: whitesmoke;
 }
+
 
 /*Navbar*/
 
@@ -45,6 +51,7 @@ h1, h2, p, a {
     text-transform: uppercase;
     letter-spacing: 1px;
 }
+
 /*Navbar links hover element*/
 
 #navbar-links li:hover a {
@@ -58,6 +65,7 @@ h1, h2, p, a {
     height: 650px;
     width: 70%;
     margin: auto;
+    margin-bottom: 100px;
 }
 
 #banner-background {
@@ -77,4 +85,19 @@ h1, h2, p, a {
 
 #main-banner-text {
     font-size: 200%;
+}
+
+/*Intro section*/
+
+.intro-text {
+    width: 50%;
+    margin: auto;
+}
+
+.intro-text h1, p {
+    color: #444;
+}
+
+.intro-text h1 {
+    text-align: center;
 }
