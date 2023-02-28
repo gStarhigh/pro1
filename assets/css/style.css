@@ -11,7 +11,7 @@ body {
     /*Remove the min-height element*/
 }
 
-h1, h2, p, a {
+h1, h2, h3, p, a {
     font-family: 'Roboto', sans-serif;
     color: whitesmoke;
 }
@@ -96,6 +96,7 @@ p {
 .intro-section {
     width: 50%;
     margin: auto;
+    margin-bottom: 50px;
 }
 
 .intro-section h1, p {
@@ -106,4 +107,25 @@ p {
     text-align: center;
     font-size: 200%;
     font-weight: 400;
+}
+
+/*Sign up banner on index page*/
+
+#middle-banner {
+    background-color: #444;
+    height: 100px;
+    width: 100%;
+    position: absolute;
+    align-items: center;
+    text-align: center;
+}
+
+#middle-banner a {
+    display: inline-block;
+    height: 100%;
+    margin-top: 5px;
+}
+
+#middle-banner a:hover {
+    text-decoration: underline;
 }
