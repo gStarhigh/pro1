@@ -91,6 +91,11 @@ p {
     font-size: 200%;
 }
 
+/*Banner hover*/
+
+
+
+
 /*Intro section*/
 
 .intro-section {
@@ -234,15 +239,23 @@ p {
     background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/shrimp.jpg);
 }
 
+#container-img-2:hover {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/shrimp.jpg);
+}
+
+#container-img-3:hover {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/shrimp.jpg);
+}
+
 
 /*Footer*/
 
 footer {
     background-color: #444;
+    display: grid;
     text-align: center;
     justify-content: center;
     width: 100%;
-    height: auto;
     font-size: 90%;
     margin-top: 50px;
     bottom: 0;
@@ -251,13 +264,14 @@ footer {
 
 .footer-contact {
     display: block;
+    padding-bottom: 10px;
 }
 
 .footer-socials {
     display: block;
     justify-content: center;
     text-align: center;
-    margin: 20px;
+    padding: 10px;
 }
 
 .footer-socials a {
