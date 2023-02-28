@@ -50,3 +50,18 @@ h1, h2, p, a {
 #navbar-links li:hover a {
     text-decoration: underline;
 }
+
+/*Main Banner image*/
+
+#main-banner {
+    padding-top: 83px;
+    height: 650px;
+    width: 70%;
+    margin: auto;
+}
+
+#main-banner-img {
+    height: 650px;
+    width: 100%;
+    object-fit: fill;
+}
