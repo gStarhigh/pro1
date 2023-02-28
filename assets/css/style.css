@@ -85,6 +85,9 @@ p {
     grid-template-columns: 1, 1fr;
     border-radius: 10px;
     box-shadow: 0px 0px 19px 5px rgba(0, 0, 0, 0.19);
+    animation-name: banner-zoom;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
 }
 
 #main-banner-text {
@@ -93,7 +96,16 @@ p {
 
 /*Banner hover*/
 
-
+@keyframes banner-zoom {
+    from {
+        transform: scale(0.9);
+        border-radius: 50%;
+    }
+    to {
+        transform: scale(1);
+        border-radius: 10px;
+    }
+}
 
 
 /*Intro section*/
