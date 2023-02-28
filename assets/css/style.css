@@ -30,6 +30,7 @@ p {
     background-color: #444;
     width: 100%;
     z-index: 10;
+    height: auto;
 }
 
 #navbar-links {
@@ -39,20 +40,20 @@ p {
 #navbar-links ul {
     display: flex;
     margin: 0;
-    padding: 0;
+    padding: 16px 0px;
 }
 
 #navbar-links li {
+    display: block;
+    padding: 1rem;
+    font-weight: 700;
+    letter-spacing: 1px;
     list-style-type: none;
 }
 
-#navbar-links li, a {
-    display: block;
+#navbar-links a {
     text-decoration: none;
-    padding: 1rem;
-    font-weight: 700;
     text-transform: uppercase;
-    letter-spacing: 1px;
 }
 
 /*Navbar links hover element*/
@@ -98,11 +99,12 @@ p {
     margin-bottom: 50px;
 }
 
-.intro-section h1, p {
+.intro-section p {
     color: #444;
 }
 
 .intro-section h1 {
+    color: #444;
     text-align: center;
     font-size: 200%;
     font-weight: 400;
@@ -122,7 +124,8 @@ p {
 #sign-up-banner a {
     display: inline-block;
     height: 100%;
-    margin-top: 5px;
+    margin-top: 20px;
+    text-decoration: none;
 }
 
 #sign-up-banner a:hover {
@@ -178,11 +181,12 @@ p {
 /*Footer*/
 
 footer {
-    background-color: red;
+    background-color: #444;
     text-align: center;
     justify-content: center;
     width: 100%;
-    font-size: 80%;
+    height: auto;
+    font-size: 90%;
     margin-top: 50px;
     bottom: 0;
     z-index: 3;
@@ -195,4 +199,5 @@ footer {
 .footer-socials {
     display: flex;
     justify-content: center;
+    text-align: center;
 }
