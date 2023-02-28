@@ -193,11 +193,16 @@ footer {
 }
 
 .footer-contact {
-    display: inline-block;
+    display: block;
 }
 
 .footer-socials {
-    display: flex;
+    display: block;
     justify-content: center;
     text-align: center;
+    margin: 20px;
+}
+
+.footer-socials a {
+    padding: 10px;
 }
