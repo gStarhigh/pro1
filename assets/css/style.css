@@ -7,8 +7,8 @@
 body {
     padding: 0;
     margin: 0;
-    min-height: 3000px;
-    /*Remove the min-height element*/
+    min-height: 5000px;
+    
 }
 
 h1, h2, h3, p, a {
@@ -132,30 +132,46 @@ p {
 
 /*Navigation images*/
 
+.container-section {
+    max-width: 80%;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 200px;
+}
+
 .container {
     display: inline-block;
-    border-radius: 10px;
-    max-width: 500px;
-    min-width: 230px;
-    max-height: 500px;
+    max-width: 440px;
+    min-width: 440px;
+    max-height: 440px;
+    min-height: 440px;
     margin: 10px;
     overflow: hidden;
     position: relative;
-    margin-top: 150px;
 }
 
 .container h3 {
-    top: 50%;
+    top: 40%;
     left: 40%;
     position: absolute;
     color: red;
     z-index: 2;
+    font-size: 150%;
 }
 
 
-.container img {
-    max-width: 100%;
+.container-img {
+    height: 400px;
+    width: 400px;
     vertical-align: top;
-    object-fit: fill;
-    
+    object-fit: cover;
+    border-radius: 20px;
+    margin: 0;
+}
+
+.container a {
+    max-width: 400px;
+    max-height: 400px;
 }
