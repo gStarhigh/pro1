@@ -110,7 +110,7 @@ p {
 
 /*Sign up banner on index page*/
 
-#middle-banner {
+#sign-up-banner {
     background-color: #444;
     height: 100px;
     width: 100%;
@@ -119,13 +119,13 @@ p {
     text-align: center;
 }
 
-#middle-banner a {
+#sign-up-banner a {
     display: inline-block;
     height: 100%;
     margin-top: 5px;
 }
 
-#middle-banner a:hover {
+#sign-up-banner a:hover {
     text-decoration: underline;
 }
 
