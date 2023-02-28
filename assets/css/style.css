@@ -45,3 +45,8 @@ h1, h2, p, a {
     text-transform: uppercase;
     letter-spacing: 1px;
 }
+/*Navbar links hover element*/
+
+#navbar-links li:hover a {
+    text-decoration: underline;
+}
