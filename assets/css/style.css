@@ -146,6 +146,7 @@ p {
     padding: 20px;
 }
 
+/*Need to add all the credits for the pictures*/
 #container-img-1 {
     width: 400px;
     height: 400px;
@@ -229,6 +230,9 @@ p {
 }
 
 /*Container image hover*/
+#container-img-1:hover {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/shrimp.jpg);
+}
 
 
 /*Footer*/
