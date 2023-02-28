@@ -69,7 +69,7 @@ p {
     height: 650px;
     width: 70%;
     margin: auto;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 #banner-background {
@@ -128,4 +128,34 @@ p {
 
 #middle-banner a:hover {
     text-decoration: underline;
+}
+
+/*Navigation images*/
+
+.container {
+    display: inline-block;
+    border-radius: 10px;
+    max-width: 500px;
+    min-width: 230px;
+    max-height: 500px;
+    margin: 10px;
+    overflow: hidden;
+    position: relative;
+    margin-top: 150px;
+}
+
+.container h3 {
+    top: 50%;
+    left: 40%;
+    position: absolute;
+    color: red;
+    z-index: 2;
+}
+
+
+.container img {
+    max-width: 100%;
+    vertical-align: top;
+    object-fit: fill;
+    
 }
