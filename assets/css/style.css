@@ -152,6 +152,7 @@ p {
     margin: 0;
     overflow: hidden;
     position: relative;
+    padding: 20px;
 }
 
 .container h3 {
