@@ -8,4 +8,8 @@ body {
 }
 h1, h2, p, a {
     font-family: 'Roboto', sans-serif;
+    color: whitesmoke;
 }
+
+/*Navbar*/
+
