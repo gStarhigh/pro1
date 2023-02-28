@@ -134,7 +134,6 @@ p {
 
 /*Navigation images*/
 
-/*Test section below for the background image*/
 #container-box{
     display: inline-block;
     max-width: 440px;
@@ -215,9 +214,6 @@ p {
     font-size: 180%;
 }
 
-/*Test section end*/
-
-
 .container-section {
     max-width: 80%;
     margin: auto;
@@ -226,39 +222,6 @@ p {
     text-align: center;
     margin-top: 200px;
 }
-
-.container {
-    display: inline-block;
-    max-width: 440px;
-    min-width: 220px;
-    max-height: 440px;
-    min-height: 220px;
-    margin: 0;
-    overflow: hidden;
-    position: relative;
-    padding: 20px;
-}
-
-.container h3 {
-    top: 40%;
-    left: 37%;
-    position: absolute;
-    color: whitesmoke;
-    z-index: 2;
-    font-size: 180%;
-}
-
-
-.container-img {
-    height: 400px;
-    width: 400px;
-    vertical-align: top;
-    object-fit: cover;
-    border-radius: 20px;
-    margin: 0;
-}
-
-
 
 .container a {
     max-width: 400px;
