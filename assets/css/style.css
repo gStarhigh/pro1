@@ -15,6 +15,11 @@ h1, h2, h3, p, a {
     color: whitesmoke;
 }
 
+main {
+    font-family: 'Roboto', sans-serif;
+    color: whitesmoke;
+}
+
 p {
     font-weight: 400;
 }
@@ -300,38 +305,51 @@ footer {
 @media screen and (max-width: 950px) {
     #navbar {
         width: 100%;
-        padding-left: 8%;
-        padding-right: 12%;
-        font-size: 90%;
-               
+        font-size: 90%;       
     }
     #main-banner {
         height: 350px;
-        width: 100%;
+        width: 80%;
         padding-top: 82px;
-        padding-left: 8%;
+        padding-left: 0%;
     }
     .intro-section {
         width: 80%;
-        padding-left: 20%;
-    }
-
-    #container-box {
-        padding: 0%;
-        margin-top: 50px;
     }
 
     #sign-up-banner {
-        padding: 0% 10% 5% 10%;
         margin-bottom: 30px;
     }
 
-    footer {
-        padding: 0% 10%;
+    #container-box {
+        margin-top: 50px;
     }
 }
 
-/*For screens with a max width of XXpx*/
+/*For screens with a max width of 490px*/
 
+@media screen and (max-width: 490px) {
+    #navbar {
+        width: 100%;
+        margin-left: 0px;
+        margin-right: 0px;
+        padding-left: 5%;
+        padding-right: 7%;
+    }
+
+    #main-banner {
+        height: 300px;
+        padding-left: 6.5%;
+        width: 100%;
+    }
+    #main-banner-text {
+        font-size: 100%;
+    }
+
+    #container-box {
+        float: left;
+    }
+    
+}
 
 
