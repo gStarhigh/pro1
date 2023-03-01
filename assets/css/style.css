@@ -360,3 +360,28 @@ footer {
         font-size: 150%;
     }
 }
+
+@media screen and (max-width: 320px) {
+
+    #navbar {
+        font-size: 55%;
+    }
+
+    #main-banner {
+        padding-top: 74px;
+        height: 300px;
+    }
+
+    #main-banner-text {
+        font-size: 120%;
+    }
+
+    #sign-up-banner {
+        padding-bottom: 30px;
+    }
+
+    #container-box {
+        height: 300px;
+    }
+    
+}
