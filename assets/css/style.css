@@ -272,6 +272,10 @@ p {
     margin-top: 200px;
 }
 
+.container-section-courses {
+    margin-top: 250px;
+}
+
 .container a {
     max-width: 400px;
     max-height: 400px;
@@ -306,12 +310,16 @@ p {
 }
 
 #courses-container {
-    max-width: 80%;
+    max-width: 50%;
     margin: auto;
     align-items: center;
     justify-content: center;
     text-align: center;
     margin-top: 20px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 5%;
+    grid-row-gap: 10%;
 }
 #courses-box {
     display: inline-block;
@@ -336,21 +344,15 @@ p {
     position: absolute;
     align-items: center;
     text-align: center;
-    margin-top: 60px;
+    margin-top: 100px;
 }
 
-#stay-tuned-banner a {
+#stay-tuned-banner h3 {
     display: inline-block;
     height: 100%;
-    margin-top: 20px;
+    padding-top: 20px;
     text-decoration: none;
 }
-
-#stay-tuned-banner a:hover {
-    text-decoration: underline;
-}
-
-
 
 
 /*Footer*/
