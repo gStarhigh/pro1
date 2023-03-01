@@ -300,11 +300,11 @@ p {
 
 /*Courses section on Courses page*/
 
-.courses-text {
+.courses-headline {
     margin-top: 180px;
     text-align: center;
 }
-.courses-text h2 {
+.courses-headline h2 {
     color: #444;
     font-size: 200%;
 }
@@ -315,7 +315,7 @@ p {
     align-items: center;
     justify-content: center;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 30px;
     display: grid;
     grid-template-columns: auto auto auto;
     grid-gap: 5%;
@@ -331,7 +331,7 @@ p {
     overflow: hidden;
     position: relative;
     padding: 20px;
-    background-color: aquamarine;
+    background-color: #444;
 }
 
 
