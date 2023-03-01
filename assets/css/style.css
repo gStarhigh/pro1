@@ -10,15 +10,12 @@ body {
     background-color: whitesmoke;    
 }
 
-h1, h2, h3, p, a {
+body, h1, h2, h3, p, a {
     font-family: 'Roboto', sans-serif;
     color: whitesmoke;
 }
 
-main {
-    font-family: 'Roboto', sans-serif;
-    color: whitesmoke;
-}
+
 
 p {
     font-weight: 400;
@@ -300,9 +297,22 @@ footer {
 
 /*Media*/
 
+/*For screens with a max width of 1660px*/
+
+@media screen and (max-width: 1660px) {
+        #container-box {
+        display: flex;
+        grid-template-columns: 1fr 1fr 1fr;
+        margin: auto;
+        justify-content: center;
+        }
+    
+}
+
+
 /*For screens with a max width of 950px*/
 
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 1280px) {
     #navbar {
         width: 100%;
         font-size: 90%;       
@@ -323,6 +333,10 @@ footer {
 
     #container-box {
         margin-top: 50px;
+        display: flex;
+        grid-template-columns: 1fr;
+        margin: auto;
+        justify-content: center;
     }
 }
 
@@ -330,26 +344,19 @@ footer {
 
 @media screen and (max-width: 490px) {
     #navbar {
-        width: 100%;
-        margin-left: 0px;
-        margin-right: 0px;
-        padding-left: 5%;
-        padding-right: 7%;
+        font-size: 80%;
     }
 
-    #main-banner {
-        height: 300px;
-        padding-left: 6.5%;
-        width: 100%;
-    }
-    #main-banner-text {
-        font-size: 100%;
+    #container-img-1 h3 {
+        font-size: 150%;
     }
 
-    #container-box {
-        float: left;
+    #container-img-2 h3 {
+        font-size: 150%;
     }
-    
+
+
+    #container-img-3 h3 {
+        font-size: 150%;
+    }
 }
-
-
