@@ -247,6 +247,8 @@ p {
 
 /*Courses section on Courses page*/
 
+/*Courses Headline*/
+
 .courses-headline {
     margin-top: 180px;
     text-align: center;
@@ -255,6 +257,8 @@ p {
     color: #444;
     font-size: 200%;
 }
+
+/*Courses Containers*/
 
 #courses-container {
     max-width: 50%;
@@ -413,6 +417,8 @@ footer {
         height: 250px;
         width: 200px;
     }
+    
+    
 }
 
 /*For screens with a min width of 836px max width of 950px*/
@@ -442,10 +448,14 @@ footer {
         height: 200px;
         width: 180px;
     }
+
+    #courses-container {
+        grid-template-columns: auto auto;
+    }
 }
 
 
-/*For screens with a max width of 836px*/
+/*For screens with a max width of 835px*/
 
 @media screen and (max-width: 835px) {
     #navbar {
@@ -490,6 +500,10 @@ footer {
         top: 35%;
         left: 40%;
     }
+
+    #courses-container {
+        grid-template-columns: auto auto;
+    }
 }
 
 
@@ -511,6 +525,17 @@ footer {
     #container-img-4 h3 {
         font-size: 150%;
     }
+    #courses-container {
+        grid-template-columns: auto;
+        grid-gap: 2%;
+        grid-row-gap: 2%;
+        margin-bottom: 80px;
+    }
+    #container-box {
+        padding-top: 80px;
+    }
+
+    
 }
 
 @media screen and (max-width: 320px) {
@@ -528,6 +553,10 @@ footer {
         font-size: 100%;
     }
 
+    .courses-headline {
+        padding-top: 20px;
+    }
+
     #sign-up-banner {
         padding-bottom: 30px;
     }
@@ -537,19 +566,19 @@ footer {
     }
 
     #container-img-1 h3 {
-        top: 35%;
+        top: 50%;
         left: 32%;
     }
     #container-img-2 h3 {
-        top: 35%;
+        top: 50%;
         left: 32%;
     }
     #container-img-3 h3 {
-        top: 35%;
+        top: 50%;
         left: 35%;
     }
     #container-img-4 h3 {
-        top: 35%;
+        top: 50%;
         left: 35%;
     }
     
