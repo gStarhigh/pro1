@@ -172,10 +172,10 @@ p {
 }
 
 /*Need to add all the credits for the pictures*/
-#container-img-1 {
+
+.container-images {
     width: 400px;
     height: 400px;
-    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/jon-tyson-kctt4tL1dkE-unsplash.jpg);
     background-size: cover;
     background-position: center;
     display: inline-block;
@@ -185,76 +185,23 @@ p {
     border-radius: 10px;
     box-shadow: 0px 0px 19px 5px rgba(0, 0, 0, 0.19);
 }
+
+#container-img-1 {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/jon-tyson-kctt4tL1dkE-unsplash.jpg);
+    
+}
 #container-img-2 {
-    width: 400px;
-    height: 400px;
     background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/victoria-shes-UC0HZdUitWY-unsplash.jpg);
-    background-size: cover;
-    background-position: center;
-    display: inline-block;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    border-radius: 10px;
-    box-shadow: 0px 0px 19px 5px rgba(0, 0, 0, 0.19);
 }
 
 #container-img-3 {
-    width: 400px;
-    height: 400px;
     background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/rafael-hoyos-weht-Aqot8S_Keb8-unsplash.jpg);
-    background-size: cover;
-    background-position: center;
-    display: inline-block;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    border-radius: 10px;
-    box-shadow: 0px 0px 19px 5px rgba(0, 0, 0, 0.19);
 }
 
 #container-img-4 {
-    width: 400px;
-    height: 400px;
     background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/kamadojoe.webp);
-    background-size: cover;
-    background-position: center;
-    display: inline-block;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    border-radius: 10px;
-    box-shadow: 0px 0px 19px 5px rgba(0, 0, 0, 0.19);
 }
-
-#container-img-1 h3 {
-    top: 38%;
-    left: 38%;
-    position: absolute;
-    color: whitesmoke;
-    z-index: 2;
-    font-size: 180%;
-}
-
-#container-img-2 h3 {
-    top: 38%;
-    left: 38%;
-    position: absolute;
-    color: whitesmoke;
-    z-index: 2;
-    font-size: 180%;
-}
-
-#container-img-3 h3 {
-    top: 38%;
-    left: 38%;
-    position: absolute;
-    color: whitesmoke;
-    z-index: 2;
-    font-size: 180%;
-}
-
-#container-img-4 h3 {
+.container-images h3 {
     top: 38%;
     left: 38%;
     position: absolute;
