@@ -513,6 +513,13 @@ footer {
     #navbar {
         font-size: 60%;
     }
+
+    .intro-section h1 {
+        font-size: 140%;
+        text-transform: uppercase;
+        font-weight: 700;
+    }
+
     #container-img-1 h3 {
         font-size: 150%;
     }
@@ -549,6 +556,13 @@ footer {
 
     #main-banner-text {
         font-size: 100%;
+    }
+
+    .intro-section h1 {
+        font-size: 110%;
+        text-transform: uppercase;
+        text-decoration: underline;
+        font-weight: 700;
     }
 
     .courses-headline {
