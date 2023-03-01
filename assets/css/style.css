@@ -213,6 +213,20 @@ p {
     box-shadow: 0px 0px 19px 5px rgba(0, 0, 0, 0.19);
 }
 
+#container-img-4 {
+    width: 400px;
+    height: 400px;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/kamadojoe.webp);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0px 0px 19px 5px rgba(0, 0, 0, 0.19);
+}
+
 #container-img-1 h3 {
     top: 38%;
     left: 38%;
@@ -232,6 +246,15 @@ p {
 }
 
 #container-img-3 h3 {
+    top: 38%;
+    left: 38%;
+    position: absolute;
+    color: whitesmoke;
+    z-index: 2;
+    font-size: 180%;
+}
+
+#container-img-4 h3 {
     top: 38%;
     left: 38%;
     position: absolute;
@@ -303,6 +326,7 @@ p {
     background-color: aquamarine;
 }
 
+
 /*Stay tuned banner*/
 
 #stay-tuned-banner {
@@ -312,6 +336,7 @@ p {
     position: absolute;
     align-items: center;
     text-align: center;
+    margin-top: 60px;
 }
 
 #stay-tuned-banner a {
