@@ -514,6 +514,10 @@ footer {
         font-size: 60%;
     }
 
+    #main-banner {
+        padding-top: 77px;
+    }
+
     .intro-section h1 {
         font-size: 140%;
         text-transform: uppercase;
