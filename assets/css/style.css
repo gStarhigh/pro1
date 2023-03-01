@@ -303,6 +303,28 @@ p {
     background-color: aquamarine;
 }
 
+/*Stay tuned banner*/
+
+#stay-tuned-banner {
+    background-color: #444;
+    height: 100px;
+    width: 100%;
+    position: absolute;
+    align-items: center;
+    text-align: center;
+}
+
+#stay-tuned-banner a {
+    display: inline-block;
+    height: 100%;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+#stay-tuned-banner a:hover {
+    text-decoration: underline;
+}
+
 
 
 
