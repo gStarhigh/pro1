@@ -270,6 +270,41 @@ p {
 }
 /*Image credit to: Image by <a href="https://pixabay.com/users/schottnerballa-13179591/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4373644">Bence Balla-Schottner</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4373644">Pixabay</a>*/
 
+
+/*Courses section on Courses page*/
+
+.courses-text {
+    margin-top: 180px;
+    text-align: center;
+}
+.courses-text h2 {
+    color: #444;
+    font-size: 200%;
+}
+
+#courses-container {
+    max-width: 80%;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 200px;
+}
+#courses-box {
+    display: inline-block;
+    max-width: 440px;
+    min-width: 220px;
+    max-height: 440px;
+    min-height: 220px;
+    margin: 0;
+    overflow: hidden;
+    position: relative;
+    padding: 20px;
+}
+
+
+
+
 /*Footer*/
 
 footer {
