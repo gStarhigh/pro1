@@ -20,6 +20,7 @@ p {
 }
 
 
+
 /*Navbar*/
 
 #navbar {
@@ -82,7 +83,6 @@ p {
     justify-content: center;
     text-align: center;
     display: grid;
-    grid-template-columns: 1, 1fr;
     border-radius: 10px;
     box-shadow: 0px 0px 19px 5px rgba(0, 0, 0, 0.19);
     animation-name: banner-zoom;
@@ -291,3 +291,32 @@ footer {
 .footer-socials a {
     padding: 10px;
 }
+
+
+/*Media*/
+
+/*For screens with a max width of 950px*/
+
+@media screen and (max-width: 950px) {
+    #navbar {
+        width: 100%;
+        padding-left: 8%;
+        padding-right: 8%;
+        font-size: 90%;
+               
+    }
+    #main-banner {
+        height: 350px;
+        width: 100%;
+        padding-top: 102px;
+        padding-left: 8%;
+    }
+    #banner-background {
+        
+    }
+}
+
+/*For screens with a max width of XXpx*/
+
+
+
