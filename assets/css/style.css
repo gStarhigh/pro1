@@ -22,7 +22,6 @@ p {
 }
 
 
-
 /*Navbar*/
 
 #navbar {
@@ -63,6 +62,12 @@ p {
 
 #navbar-links li:hover a {
     text-decoration: underline;
+    font-size: 110%;
+    
+}
+
+.active-page {
+    font-size: 110%;
 }
 
 /*Main Banner image*/
