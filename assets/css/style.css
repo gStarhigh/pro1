@@ -413,20 +413,24 @@ footer {
         }
 
         #container-img-1 h3 {
-            top: 35%;
-            left: 25%;
+            top: 40%;
+            left: 50%;
+            transform: translate(-50%,-50%);
         }
         #container-img-2 h3 {
-            top: 35%;
-            left: 30%;
+            top: 40%;
+            left: 50%;
+            transform: translate(-50%,-50%);
         }
         #container-img-3 h3 {
-            top: 35%;
-            left: 30%;
+            top: 40%;
+            left: 50%;
+            transform: translate(-50%,-50%);
         }
         #container-img-4 h3 {
-            top: 35%;
-            left: 30%;
+            top: 40%;
+            left: 50%;
+            transform: translate(-50%,-50%);
         }
     
 }
@@ -524,24 +528,28 @@ footer {
         margin: auto;
         justify-content: center;
     }
-
+    
     #container-img-1 h3 {
-        top: 35%;
-        left: 38%;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
     }
     #container-img-2 h3 {
-        top: 35%;
-        left: 38%;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
     }
     #container-img-3 h3 {
-        top: 35%;
-        left: 40%;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
     }
     #container-img-4 h3 {
-        top: 35%;
-        left: 40%;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
     }
-
+    
     #courses-container {
         grid-template-columns: auto auto;
     }
@@ -621,22 +629,26 @@ footer {
     #container-box {
         height: 300px;
     }
-
+    
     #container-img-1 h3 {
         top: 50%;
-        left: 32%;
+        left: 50%;
+        transform: translate(-50%,-50%);
     }
     #container-img-2 h3 {
         top: 50%;
-        left: 32%;
+        left: 50%;
+        transform: translate(-50%,-50%);
     }
     #container-img-3 h3 {
         top: 50%;
-        left: 35%;
+        left: 50%;
+        transform: translate(-50%,-50%);
     }
     #container-img-4 h3 {
         top: 50%;
-        left: 35%;
+        left: 50%;
+        transform: translate(-50%,-50%);
     }
     
 }
