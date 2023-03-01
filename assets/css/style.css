@@ -249,8 +249,8 @@ p {
 }
 /*My own image*/
 
-/*Courses section on Courses page*/
 
+/*Courses section on Courses page*/
 /*Courses Headline*/
 
 .courses-headline {
@@ -286,12 +286,45 @@ p {
     overflow: hidden;
     position: relative;
     padding: 20px;
-    background-color: #444;
+    
 }
 
 #courses-box a {
     text-decoration: none;
 }
+
+#courses-img-1 {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/lobster.jpg);
+}
+
+.courses-images {
+    max-height: 400px;
+    min-height: 200px;
+    max-width: 400px;
+    min-width: 200px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+}
+.courses-images h3 {
+    top: 5%;
+    left: 22%;
+    position: absolute;
+    color: whitesmoke;
+    z-index: 2;
+    font-size: 140%;
+}
+.courses-images p {
+    top: 25%;
+    left: 20%;
+    text-align: center;
+    justify-content: center;
+    position: absolute;
+    color: whitesmoke;
+    z-index: 3;
+    font-size: 100%;
+}
+
 
 
 /*Stay tuned banner*/
