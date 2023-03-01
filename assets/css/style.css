@@ -202,8 +202,9 @@ p {
     background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/kamadojoe.webp);
 }
 .container-images h3 {
-    top: 38%;
-    left: 38%;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
     position: absolute;
     color: whitesmoke;
     z-index: 2;
@@ -286,7 +287,7 @@ p {
     overflow: hidden;
     position: relative;
     padding: 20px;
-    
+    background-color: aquamarine;
 }
 
 #courses-box a {
@@ -307,16 +308,19 @@ p {
     border-radius: 10px;
 }
 .courses-images h3 {
-    top: 5%;
-    left: 22%;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
     position: absolute;
     color: whitesmoke;
     z-index: 2;
     font-size: 140%;
 }
+
 .courses-images p {
-    top: 25%;
-    left: 20%;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%,-50%);
     text-align: center;
     justify-content: center;
     position: absolute;
