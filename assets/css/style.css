@@ -511,7 +511,7 @@ footer {
 
 @media screen and (max-width: 490px) {
     #navbar {
-        font-size: 80%;
+        font-size: 60%;
     }
     #container-img-1 h3 {
         font-size: 150%;
@@ -533,7 +533,7 @@ footer {
     }
     #container-box {
         padding-top: 80px;
-    }  
+    }
 }
 
 @media screen and (max-width: 320px) {
