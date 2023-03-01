@@ -334,6 +334,10 @@ p {
     background-color: #444;
 }
 
+#courses-box a {
+    text-decoration: none;
+}
+
 
 /*Stay tuned banner*/
 
