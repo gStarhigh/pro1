@@ -327,6 +327,7 @@ p {
 /*The Courses images*/
 #courses-img-1 {
     background-image: url(../images/doublegrill.jpg);
+    /*Image credit: Jezper Rundcrantz*/
     -webkit-filter: blur(3px);
     filter: blur(3px);
     -webkit-transition: .3s ease-in-out;
@@ -338,7 +339,7 @@ p {
     -webkit-filter: blur(0);
     filter: blur(0);
     background-image: url(../images/doublegrill.jpg);
-
+    /*Image credit: Jezper Rundcrantz*/
 }
 
 #courses-img-2 {
