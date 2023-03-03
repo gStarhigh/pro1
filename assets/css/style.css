@@ -71,7 +71,7 @@ p {
 
 /*Main Banner image*/
 
-#main-banner {
+#hero-banner {
     padding-top: 83px;
     height: 650px;
     width: 70%;
@@ -96,7 +96,7 @@ p {
     animation-fill-mode: forwards;
 }
 
-#main-banner-text {
+#hero-banner-text {
     font-size: 200%;
 }
 
@@ -624,7 +624,7 @@ footer {
         font-size: 90%;       
     }
 
-    #main-banner {
+    #hero-banner {
         height: 350px;
         width: 80%;
         padding-top: 82px;
@@ -672,7 +672,7 @@ footer {
         font-size: 60%;
     }
 
-    #main-banner {
+    #hero-banner {
         padding-top: 77px;
     }
 
@@ -713,12 +713,12 @@ footer {
         font-size: 55%;
     }
 
-    #main-banner {
+    #hero-banner {
         padding-top: 74px;
         height: 300px;
     }
 
-    #main-banner-text {
+    #hero-banner-text {
         font-size: 100%;
     }
 
