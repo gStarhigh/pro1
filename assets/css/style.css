@@ -324,12 +324,30 @@ p {
     text-decoration: none;
 }
 
+/*The Courses images*/
 #courses-img-1 {
-    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/lobster.jpg);
+    background-image: url(../images/doublegrill.jpg);
+    -webkit-filter: blur(3px);
+    filter: blur(3px);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+
+/*Hover blur element on the Coming soon course*/
+#courses-img-1:hover {
+    -webkit-filter: blur(0);
+    filter: blur(0);
+    background-image: url(../images/doublegrill.jpg);
+
 }
 
 #courses-img-2 {
     background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/lobster.jpg);
+}
+
+/*Hover blur element on the Coming soon course*/
+#courses-img-2:hover {
+    
 }
 
 #courses-img-3 {
@@ -344,18 +362,8 @@ p {
     background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/lobster.jpg);
 }
 
-/*Blur test*/
 #courses-img-6 {
-    background-image:url(../images/pizza-kamado.jpg);
-    -webkit-filter: blur(3px);
-    filter: blur(3px);
-    -webkit-transition: .3s ease-in-out;
-    transition: .3s ease-in-out;
-}
-#courses-img-6:hover {
-    -webkit-filter: blur(0);
-    filter: blur(0);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)) url(../images/pizza-kamado.jpg);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/lobster.jpg);
 }
 
 
@@ -430,6 +438,17 @@ p {
 
 .courses-figcaption h3 {
     font-size: 170%;
+}
+
+.figcaption-coming-soon {
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    color: whitesmoke;
+    font-size: 200%;
+    font-style: italic;
+    z-index: 2;
 }
 
 /*Stay tuned banner*/
