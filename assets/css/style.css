@@ -227,7 +227,7 @@ p {
     max-height: 400px;
 }
 
-/*Container image hover*/
+/*Container navigation section image hover*/
 #container-img-1:hover {
     background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/shrimp.jpg);
     transition-duration: 1.5s;
@@ -325,6 +325,8 @@ p {
 }
 
 /*The Courses images*/
+
+/*Coming Soon courses*/
 #courses-img-1 {
     background-image: url(../images/doublegrill.jpg);
     /*Image credit: Jezper Rundcrantz*/
@@ -343,16 +345,30 @@ p {
 }
 
 #courses-img-2 {
-    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/lobster.jpg);
+    background-image: url(../images/pizza-pizza.jpg);
+    /*Image credit: Jezper Rundcrantz*/
+    -webkit-filter: blur(3px);
+    filter: blur(3px);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
 }
 
 /*Hover blur element on the Coming soon course*/
 #courses-img-2:hover {
-    
+    -webkit-filter: blur(0);
+    filter: blur(0);
+    background-image: url(../images/pizza-pizza.jpg);
+    /*Image credit: Jezper Rundcrantz*/
 }
 
+/*New and most popular courses*/
 #courses-img-3 {
-    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/lobster.jpg);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/smashongrill.jpg);
+    /*Image credit: Jezper Rundcrantz*/
+}
+#courses-img-3-backside {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url(../images/smash-burger.jpg);
+    /*Image credit: Jezper Rundcrantz*/
 }
 
 #courses-img-4 {
@@ -397,10 +413,7 @@ p {
     border-radius: 10px;
 }
 
-#courses-img-7-backside {
-    background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url(../images/smash-burger.jpg);
-    /*Image credit: Jezper Rundcrantz*/
-}
+
 .courses-images-backside {
     height: 350px;
     width: 350px;
@@ -451,6 +464,7 @@ p {
     font-style: italic;
     z-index: 2;
 }
+
 
 /*Stay tuned banner*/
 
