@@ -388,10 +388,8 @@ p {
     transition: transform 0.8s;
     transform-style: preserve-3d;
   }
-  /*Test with background image instead*/
-#courses-img-7 {
-    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/smashongrill.jpg);
-    /*Image credit: Jezper Rundcrantz*/
+ 
+.courses-images {
     background-size: cover;
     background-position: center;
     width: 350px;
@@ -402,6 +400,8 @@ p {
 #courses-img-7-backside {
     background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url(../images/smash-burger.jpg);
     /*Image credit: Jezper Rundcrantz*/
+}
+.courses-images-backside {
     height: 350px;
     width: 350px;
     background-size: cover;
