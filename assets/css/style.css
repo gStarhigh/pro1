@@ -296,7 +296,8 @@ p {
     background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/lobster.jpg);
 }
 #courses-img-5-backside {
-
+    background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../images/schrimp.JPG);
+/*Image credit: Jezper Rundcrantz*/
 }
 
 #courses-img-6 {
@@ -487,18 +488,18 @@ p {
 
 /*Container navigation section image hover*/
 #container-img-1:hover {
-    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/shrimp.jpg);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/schrimp.JPG);
     transition-duration: 1.5s;
+/*Image credit: Jezper Rundcrantz*/
 }
-/*Image credit to: Image by <a href="https://pixabay.com/users/shutterbug75-2077322/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1238668">Robert Owen-Wahl</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1238668">Pixabay</a>*/
 
 #container-img-2:hover {
-    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/burger-4145977_1280.jpg);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/smash-burger.jpg);
+/*Image credit: Jezper Rundcrantz*/
 }
-/*Image credit to: Image by <a href="https://pixabay.com/users/thorstenf-7677369/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4145977">Thorsten Frenzel</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4145977">Pixabay</a>*/
 
 #container-img-3:hover {
-    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/bbq-4373644_1280.jpg);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/kamadox2.JPG);
 }
 /*Image credit to: Image by <a href="https://pixabay.com/users/schottnerballa-13179591/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4373644">Bence Balla-Schottner</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4373644">Pixabay</a>*/
 
