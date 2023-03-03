@@ -171,7 +171,18 @@ p {
     padding: 20px;
 }
 
-/*Need to add all the credits for the pictures*/
+.container-section {
+    max-width: 80%;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.container-section-courses {
+    margin-top: 250px;
+}
 
 .container-images {
     width: 400px;
@@ -186,6 +197,7 @@ p {
     box-shadow: 0px 0px 19px 5px rgba(0, 0, 0, 0.19);
 }
 
+/*Need to add all the credits for the pictures*/
 #container-img-1 {
     background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/jon-tyson-kctt4tL1dkE-unsplash.jpg);
     
@@ -209,19 +221,6 @@ p {
     color: whitesmoke;
     z-index: 2;
     font-size: 180%;
-}
-
-.container-section {
-    max-width: 80%;
-    margin: auto;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    margin-top: 200px;
-}
-
-.container-section-courses {
-    margin-top: 250px;
 }
 
 .container a {
@@ -266,7 +265,7 @@ p {
 /*Courses Containers*/
 
 #courses-container {
-    max-width: 50%;
+    max-width: 80%;
     margin: auto;
     align-items: center;
     justify-content: center;
@@ -274,20 +273,19 @@ p {
     margin-top: 30px;
     display: grid;
     grid-template-columns: auto auto auto;
-    grid-gap: 5%;
+    grid-gap: 2%;
     grid-row-gap: 10%;
 }
+
 #courses-box {
     display: inline-block;
-    max-width: 400px;
-    min-width: 200px;
-    max-height: 400px;
-    min-height: 200px;
+    max-width: 440px;
+    min-width: 220px;
+    max-height: 440px;
+    min-height: 220px;
     margin: 0;
     overflow: hidden;
     position: relative;
-    padding: 20px;
-    background-color: aquamarine;
 }
 
 #courses-box a {
@@ -298,11 +296,29 @@ p {
     background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/lobster.jpg);
 }
 
+#courses-img-2 {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/lobster.jpg);
+}
+
+#courses-img-3 {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/lobster.jpg);
+}
+
+#courses-img-4 {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/lobster.jpg);
+}
+
+#courses-img-5 {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/lobster.jpg);
+}
+
+#courses-img-6 {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/pizza-kamado.jpg);
+}
+
 .courses-images {
-    max-height: 400px;
-    min-height: 200px;
-    max-width: 400px;
-    min-width: 200px;
+    height: 400px;
+    width: 400px;
     background-size: cover;
     background-position: center;
     border-radius: 10px;
