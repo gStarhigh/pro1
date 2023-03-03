@@ -284,7 +284,7 @@ p {
 /*Image credit: Jezper Rundcrantz*/
 }
 #courses-img-3-backside {
-    background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url(../images/smash-burger.jpg);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),  url(../images/smash-burger.jpg);
 /*Image credit: Jezper Rundcrantz*/
 }
 
@@ -293,7 +293,7 @@ p {
 /*Image credit: Jezper Rundcrantz*/
 }
 #courses-img-4-backside {
-    background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url(../images/chicken-clubs2.JPG);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),  url(../images/chicken-clubs2.JPG);
 /*Image credit: Jezper Rundcrantz*/
 }
 
@@ -301,7 +301,7 @@ p {
     background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/lobster.jpg);
 }
 #courses-img-5-backside {
-    background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../images/schrimp.JPG);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/schrimp.JPG);
 /*Image credit: Jezper Rundcrantz*/
 }
 
@@ -310,7 +310,7 @@ p {
 /*Image credit: Jezper Rundcrantz*/
 }
 #courses-img-6-backside {
-    background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../images/pizza3.JPG);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/pizza3.JPG);
 /*Image credit: Jezper Rundcrantz*/
 }
 
@@ -385,6 +385,7 @@ p {
     position: absolute;
     color: whitesmoke;
     text-align: left;
+    font-size: 120%;
     z-index: 2;
 }
 
