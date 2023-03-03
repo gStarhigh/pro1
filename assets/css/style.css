@@ -310,17 +310,12 @@ p {
 }
 
 
-/*Flipbox test*/
-
 /* The flip box container*/
 .flip-box {
     width: 350px;
     height: 350px;
-    /*border: 5px solid #444;*/
-    border-radius: 16px;
     perspective: 1000px;
   }
-  
   
 .flip-box-inner {
     position: relative;
@@ -338,7 +333,6 @@ p {
     height: 350px;
     border-radius: 10px;
 }
-
 
 .courses-images-backside {
     height: 350px;
@@ -362,7 +356,6 @@ p {
   }
   
 .flip-box-back {
-    color: white;
     transform: rotateY(180deg);
   }
 
@@ -390,6 +383,7 @@ p {
     font-style: italic;
     z-index: 2;
 }
+/*Got help with the flipboxes from W3: https://www.w3schools.com/howto/howto_css_flip_box.asp*/
 
 
 /*Stay tuned banner*/
