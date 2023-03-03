@@ -356,7 +356,7 @@ p {
     height: 350px;
     border: 5px solid #444;
     border-radius: 16px;
-    perspective: 1000px; /* Remove this if you don't want the 3D effect */
+    perspective: 1000px;
   }
   
   
@@ -371,6 +371,7 @@ p {
   /*Test with background image instead*/
 #courses-img-7 {
     background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/smashongrill.jpg);
+    /*Image credit: Jezper Rundcrantz*/
     background-size: cover;
     background-position: center;
     width: 350px;
@@ -380,6 +381,7 @@ p {
 
 #courses-img-7-backside {
     background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url(../images/smash-burger.jpg);
+    /*Image credit: Jezper Rundcrantz*/
     height: 350px;
     width: 350px;
     background-size: cover;
@@ -387,12 +389,11 @@ p {
     border-radius: 10px;
 }
 
-  /* Do an 180* flip when you move the mouse over the flip box container */
+  /* 180* hover element */
 .flip-box:hover .flip-box-inner {
     transform: rotateY(180deg);
   }
   
-  /* Position the front and back side */
 .flip-box-front, .flip-box-back {
     position: absolute;
     width: 100%;
@@ -401,7 +402,6 @@ p {
     backface-visibility: hidden;
   }
   
-  /* Style the back side */
 .flip-box-back {
     color: white;
     transform: rotateY(180deg);
