@@ -421,45 +421,6 @@ footer {
             left: 50%;
             transform: translate(-50%,-50%);
         }
-/*
-        #container-img-1 {
-            height: 300px;
-            width: 300px;
-        }
-        #container-img-2 {
-            height: 300px;
-            width: 300px;
-        }
-        #container-img-3 {
-            height: 300px;
-            width: 300px;
-        }
-        #container-img-4 {
-            height: 300px;
-            width: 300px;
-        }
-
-        #container-img-1 h3 {
-            top: 40%;
-            left: 50%;
-            transform: translate(-50%,-50%);
-        }
-        #container-img-2 h3 {
-            top: 40%;
-            left: 50%;
-            transform: translate(-50%,-50%);
-        }
-        #container-img-3 h3 {
-            top: 40%;
-            left: 50%;
-            transform: translate(-50%,-50%);
-        }
-        #container-img-4 h3 {
-            top: 40%;
-            left: 50%;
-            transform: translate(-50%,-50%);
-        }
-*/
 }
 
 /*For screens with a min width of 950px and a max width of 1290px*/
@@ -482,24 +443,6 @@ footer {
         left: 50%;
         transform: translate(-50%,-50%);
     }
-/*
-    #container-img-1 {
-        height: 250px;
-        width: 200px;
-    }
-    #container-img-2 {
-        height: 250px;
-        width: 200px;
-    }
-    #container-img-3 {
-        height: 250px;
-        width: 200px;
-    }
-    #container-img-4 {
-        height: 250px;
-        width: 200px;
-    }
-*/
     
 }
 
@@ -523,25 +466,6 @@ footer {
         transform: translate(-50%,-50%);
         font-size: 150%;
     }
-    /*
-    #container-img-1 {
-        height: 200px;
-        width: 180px;
-        
-    }
-    #container-img-2 {
-        height: 200px;
-        width: 180px;
-    }
-    #container-img-3 {
-        height: 200px;
-        width: 180px;
-    }
-    #container-img-4 {
-        height: 200px;
-        width: 180px;
-    }
-    */
 
     #courses-container {
         grid-template-columns: auto auto;
@@ -576,34 +500,14 @@ footer {
         grid-template-columns: 1fr;
         margin: auto;
         justify-content: center;
+        padding-top: 20px;
     }
     .container-images {
         height: 250px;
         width: 250px;
     }
 
-    /*
-    #container-img-1 h3 {
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%,-50%);
-    }
-    #container-img-2 h3 {
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%,-50%);
-    }
-    #container-img-3 h3 {
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%,-50%);
-    }
-    #container-img-4 h3 {
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%,-50%);
-    }
-*/
+
     #courses-container {
         grid-template-columns: auto auto;
     }
@@ -628,33 +532,23 @@ footer {
     }
 
     .container-images h3 {
-        top: 50%;
+        top: 40%;
         left: 50%;
         transform: translate(-50%,-50%);
         font-size: 150%;
     }
-    /*
-    #container-img-1 h3 {
-        font-size: 150%;
-    }
-    #container-img-2 h3 {
-        font-size: 150%;
-    }
-    #container-img-3 h3 {
-        font-size: 150%;
-    }
-    #container-img-4 h3 {
-        font-size: 150%;
-    }
-*/
+
     #courses-container {
         grid-template-columns: auto;
         grid-gap: 2%;
         grid-row-gap: 2%;
         margin-bottom: 80px;
     }
+    .container-section-courses {
+        padding-top: 50px;
+    }
     #container-box {
-        padding-top: 80px;
+        padding-top: 20px;
     }
 }
 
@@ -688,8 +582,13 @@ footer {
         padding-bottom: 30px;
     }
 
+    .container-section-courses {
+        padding-top: 80px;
+    }
+
     #container-box {
         height: 250px;
+        padding-top: 5px;
     }
 
     .container-images {
@@ -699,30 +598,8 @@ footer {
     }
     
     .container-images h3 {
-        top: 45%;
+        top: 30%;
         left: 50%;
         transform: translate(-50%,-50%);
-    }
-  /*
-    #container-img-1 h3 {
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%,-50%);
-    }
-    #container-img-2 h3 {
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%,-50%);
-    }
-    #container-img-3 h3 {
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%,-50%);
-    }
-    #container-img-4 h3 {
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%,-50%);
-    }
- */   
+    }  
 }
