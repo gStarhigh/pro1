@@ -270,11 +270,12 @@ p {
     align-items: center;
     justify-content: center;
     text-align: center;
-    margin-top: 30px;
+    margin-top: 50px;
     display: grid;
     grid-template-columns: auto auto auto;
-    grid-gap: 2%;
+    grid-gap: 5%;
     grid-row-gap: 10%;
+    
 }
 
 #courses-box {
@@ -286,6 +287,35 @@ p {
     margin: 0;
     overflow: hidden;
     position: relative;
+}
+
+.courses-images {
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+}
+.courses-images h3 {
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    color: whitesmoke;
+    z-index: 2;
+    font-size: 140%;
+}
+
+.courses-images p {
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    justify-content: center;
+    position: absolute;
+    color: whitesmoke;
+    z-index: 3;
+    font-size: 100%;
 }
 
 #courses-box a {
@@ -315,36 +345,6 @@ p {
 #courses-img-6 {
     background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/pizza-kamado.jpg);
 }
-
-.courses-images {
-    height: 400px;
-    width: 400px;
-    background-size: cover;
-    background-position: center;
-    border-radius: 10px;
-}
-.courses-images h3 {
-    top: 40%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    position: absolute;
-    color: whitesmoke;
-    z-index: 2;
-    font-size: 140%;
-}
-
-.courses-images p {
-    top: 65%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    text-align: center;
-    justify-content: center;
-    position: absolute;
-    color: whitesmoke;
-    z-index: 3;
-    font-size: 100%;
-}
-
 
 
 /*Stay tuned banner*/
