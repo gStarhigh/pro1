@@ -716,8 +716,6 @@ footer {
         font-weight: 700;
     }
 
-    
-
     .courses-headline {
         padding-top: 25px;
     }
@@ -728,19 +726,18 @@ footer {
         grid-row-gap: 5%;
         margin-bottom: 150px;
     }
+    /*Navigation images section*/
     .container-section-courses {
-        padding-top: 50px;
+        margin-top: 400px;
     }
 
-    #container-section {
+    .container-section {
         display: grid;
-        grid-template-columns: 1fr;
-    }
-    #container-box {
-        padding-top: 80px;
+        grid-template-columns: auto;
+        max-width: 100%;
     }
     .container-images h3 {
-        top: 50%;
+        top: 35%;
         left: 50%;
         transform: translate(-50%,-50%);
         font-size: 150%;
@@ -784,7 +781,7 @@ footer {
     }
 
     .container-section-courses {
-        padding-top: 140px;
+        padding-top: 40px;
     }
 
     #container-box {
