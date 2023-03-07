@@ -609,6 +609,17 @@ footer {
     .container-box {
         padding: 10px;
     }
+
+    .courses-figcaption-backside {
+        top: 50%;
+        left: 40%;
+        transform: translate(-50%,-50%);
+        position: absolute;
+        color: whitesmoke;
+        text-align: left;
+        font-size: 80%;
+        z-index: 2;
+    }
     /*Navigation images section*/
     .container-images {
         height: 250px;
@@ -638,8 +649,20 @@ footer {
         width: 200px;
         height: 200px;
     }
+    .courses-figcaption-backside {
+        top: 50%;
+        left: 40%;
+        transform: translate(-50%,-50%);
+        position: absolute;
+        color: whitesmoke;
+        text-align: left;
+        font-size: 80%;
+        z-index: 2;
+    }
+
     
-    
+    /*Navigation images section*/
+        
     .container-images {
         height: 200px;
         width: 180px;
@@ -700,6 +723,16 @@ footer {
     .courses-images-backside {
         width: 200px;
         height: 200px;
+    }
+    .courses-figcaption-backside {
+        top: 50%;
+        left: 40%;
+        transform: translate(-50%,-50%);
+        position: absolute;
+        color: whitesmoke;
+        text-align: left;
+        font-size: 80%;
+        z-index: 2;
     }
     
 
