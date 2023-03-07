@@ -569,7 +569,7 @@ footer {
 /*For screens with a max width of 1660px*/
 
 @media screen and (max-width: 1680px) {
-        #container-box {
+    #container-box {
         display: flexbox;
         grid-template-columns: 1fr 1fr 1fr;
         margin: auto;
@@ -577,15 +577,15 @@ footer {
         padding: 5px;
         }
 
-        .container-images {
-            height: 300px;
-            width: 300px;
+    .container-images {
+        height: 300px;
+        width: 300px;
         }
 
-        .container-images h3 {
-            top: 40%;
-            left: 50%;
-            transform: translate(-50%,-50%);
+    .container-images h3 {
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-50%);
         }
 }
 
@@ -593,13 +593,14 @@ footer {
 
 @media only screen and (max-width: 1290px) and (min-width:950px) {
     #container-box {
+        /*
         display: flexbox;
         grid-template-columns: 1fr 1fr 1fr;
         margin: auto;
         justify-content: center;
+         */
         padding: 10px;
     }
-
     .container-images {
         height: 250px;
         width: 100%;
@@ -614,13 +615,13 @@ footer {
 
 /*For screens with a min width of 836px max width of 950px*/
 @media only screen and (max-width: 950px) and (min-width:836px) {
-    #container-box {
+   /* #container-box {
         display: flexbox;
         grid-template-columns: 1fr 1fr 1fr;
         margin: auto;
         justify-content: center;
         padding: 0;
-    }
+    }*/
     .container-images {
         height: 200px;
         width: 180px;
@@ -673,7 +674,7 @@ footer {
         min-width: 250px;
     }
 
-    #container-box {
+    /*#container-box { 
         margin-top: 50px;
         display: flex;
         grid-template-columns: 1fr;
@@ -681,10 +682,16 @@ footer {
         justify-content: center;
         padding-top: 20px;
     }
-
+    */
     .container-images {
-        height: 250px;
-        width: 250px;
+        height: 200px;
+        width: 180px;
+    }
+    .container-images h3 {
+        top: 35%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        font-size: 150%;
     }
 }
 
@@ -709,12 +716,7 @@ footer {
         font-weight: 700;
     }
 
-    .container-images h3 {
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%,-50%);
-        font-size: 150%;
-    }
+    
 
     .courses-headline {
         padding-top: 25px;
@@ -729,8 +731,19 @@ footer {
     .container-section-courses {
         padding-top: 50px;
     }
+
+    #container-section {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
     #container-box {
         padding-top: 80px;
+    }
+    .container-images h3 {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        font-size: 150%;
     }
 }
 
