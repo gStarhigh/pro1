@@ -680,6 +680,7 @@ footer {
 
 @media screen and (max-width: 490px) {
     #navbar {
+        width: 100%;
         font-size: 60%;
     }
 
@@ -721,7 +722,9 @@ footer {
 @media screen and (max-width: 320px) {
 
     #navbar {
-        font-size: 55%;
+        font-size: 40%;
+        text-align: center;
+        justify-content: center;
     }
 
     #hero-banner {
