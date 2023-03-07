@@ -623,7 +623,7 @@ footer {
     z-index: 3;
 }
 
-.footer-signup {
+#footer-signup {
     margin-top: 0;
 }
 
@@ -876,6 +876,14 @@ footer {
         left: 50%;
         transform: translate(-50%,-50%);
         font-size: 150%;
+    }
+ /*Form section*/
+    .join-button {
+        display: block;
+        margin-top: 30px;
+        height: 40px;
+        width: 80%;
+        font-size: 120%;
     }
 }
 
