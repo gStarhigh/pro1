@@ -203,7 +203,7 @@ p {
     overflow: hidden;
     position: relative;
 }
-
+/*
 .courses-images {
     max-width: 100%;
     min-width: 300px;
@@ -213,6 +213,7 @@ p {
     background-position: center;
     border-radius: 10px;
 }
+*/
 .courses-images h3 {
     top: 40%;
     left: 50%;
@@ -591,9 +592,24 @@ footer {
 /*For screens with a min width of 950px and a max width of 1290px*/
 
 @media only screen and (max-width: 1290px) and (min-width:950px) {
+    /*Courses section*/
+    .flip-box {
+        width: 200px;
+        height: 200px;
+        perspective: 1000px;
+      }
+    .courses-images {
+        width: 200px;
+        height: 200px;
+    }
+    .courses-images-backside {
+        width: 200px;
+        height: 200px;
+    }
     .container-box {
         padding: 10px;
     }
+    /*Navigation images section*/
     .container-images {
         height: 250px;
         width: 100%;
@@ -608,6 +624,22 @@ footer {
 
 /*For screens with a min width of 836px max width of 950px*/
 @media only screen and (max-width: 950px) and (min-width:836px) {
+    /*Courses section*/
+    .flip-box {
+        width: 200px;
+        height: 200px;
+        perspective: 1000px;
+      }
+    .courses-images {
+        width: 200px;
+        height: 200px;
+    }
+    .courses-images-backside {
+        width: 200px;
+        height: 200px;
+    }
+    
+    
     .container-images {
         height: 200px;
         width: 180px;
@@ -654,12 +686,22 @@ footer {
     #courses-container {
         grid-template-columns: auto auto;
         grid-row-gap: 8%;
+        margin-bottom: 40px;
     }
-
+    .flip-box {
+        width: 200px;
+        height: 200px;
+        perspective: 1000px;
+      }
     .courses-images {
-        height: 250px;
-        width: 250px;
+        width: 200px;
+        height: 200px;
     }
+    .courses-images-backside {
+        width: 200px;
+        height: 200px;
+    }
+    
 
 /*Navigation images section*/
     .container-images {
