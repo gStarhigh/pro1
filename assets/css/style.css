@@ -541,6 +541,7 @@ p {
     background-size: cover;
     background-position: center;
     height: 1100px;
+    font-family: Roboto;
 }
 
 .signup-form {
@@ -557,6 +558,7 @@ p {
 }
 .form-label {
     font-size: 150%;
+    font-family: Roboto;
 }
 .text-input {
     width: 100%;
@@ -566,7 +568,7 @@ p {
     border-color: transparent;
 }
 .text-input:hover {
-    border-color: blue;
+    border-color: #444;
     border-width: 2px;
 }
 .course-input {
@@ -575,10 +577,14 @@ p {
     margin: 5px 0 20px 0;
     border-radius: 10px;
     border-color: transparent;
+    font-family: Roboto;
+}
+
+.course-option:hover {
+    background-color: #444;
 }
 
 .radio-label{
-
     font-size: 120%;
 }
 .radio-button {
@@ -597,6 +603,7 @@ p {
     font-size: 120%;
     border-radius: 10px;
     border-color: transparent;
+    font-family: Roboto;
 }
 
 .join-button:hover {
