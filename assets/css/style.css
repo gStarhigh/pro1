@@ -592,12 +592,6 @@ footer {
 
 @media only screen and (max-width: 1290px) and (min-width:950px) {
     .container-box {
-        /*
-        display: flexbox;
-        grid-template-columns: 1fr 1fr 1fr;
-        margin: auto;
-        justify-content: center;
-         */
         padding: 10px;
     }
     .container-images {
@@ -614,13 +608,6 @@ footer {
 
 /*For screens with a min width of 836px max width of 950px*/
 @media only screen and (max-width: 950px) and (min-width:836px) {
-   /* .container-box {
-        display: flexbox;
-        grid-template-columns: 1fr 1fr 1fr;
-        margin: auto;
-        justify-content: center;
-        padding: 0;
-    }*/
     .container-images {
         height: 200px;
         width: 180px;
@@ -675,16 +662,6 @@ footer {
     }
 
 /*Navigation images section*/
-
-    /*.container-box { 
-        margin-top: 50px;
-        display: flex;
-        grid-template-columns: 1fr;
-        margin: auto;
-        justify-content: center;
-        padding-top: 20px;
-    }
-    */
     .container-images {
         height: 200px;
         width: 180px;
