@@ -682,6 +682,8 @@ footer {
     #navbar {
         width: 100%;
         font-size: 60%;
+        text-align: center;
+        justify-content: center;
     }
 
     #hero-banner {
