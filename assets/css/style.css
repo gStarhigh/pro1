@@ -196,9 +196,9 @@ p {
 .courses-box {
     display: inline-block;
     max-width: 440px;
-    min-width: 220px;
+    min-width: 200px;
     max-height: 440px;
-    min-height: 220px;
+    min-height: 200px;
     margin: 0;
     overflow: hidden;
     position: relative;
@@ -745,7 +745,7 @@ footer {
         grid-template-columns: auto;
         grid-gap: 2%;
         grid-row-gap: 5%;
-        margin-bottom: 150px;
+        margin-bottom: 250px;
     }
     /*Navigation images section*/
     .container-section-courses {
@@ -756,6 +756,7 @@ footer {
         display: grid;
         grid-template-columns: auto;
         max-width: 100%;
+        padding-top: 100px;
     }
     .container-images h3 {
         top: 35%;
@@ -802,7 +803,7 @@ footer {
     }
 
     .container-section-courses {
-        padding-top: 40px;
+        padding-top: 100px;
     }
 
     .container-box {
