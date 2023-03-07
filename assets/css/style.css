@@ -540,7 +540,7 @@ p {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/serving.jpg);
     background-size: cover;
     background-position: center;
-    height: 1000px;
+    height: 1100px;
 }
 
 .signup-form {
@@ -577,6 +577,10 @@ p {
     border-color: transparent;
 }
 
+.radio-label{
+
+    font-size: 120%;
+}
 .radio-button {
     display: block;
     margin: 5px 0 20px 0;
