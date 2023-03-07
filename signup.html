@@ -39,7 +39,7 @@
     </nav>
     <main>
 
-        <!--Main banner-->
+        <!--Main banner
         <div id="hero-banner">
             <div id="banner-background">
                 <div id="hero-banner-text">
@@ -47,30 +47,39 @@
                 </div>
             </div>
         </div>
-
+-->
         <section class="form-section">
-        <form action="">
-            <h2>Let's BBQ!</h2> <!--Can we insert the title icon here?-->
-            <label class="form-label" for="fname">First Name</label>
-            <input class="text-input" type="text" id="fname" name="first_name" placeholder="Your First Name" required>
+            <form action="congratulations.html" class="signup-form">
+                <h2>Let's BBQ!</h2> <!--Can we insert the title icon here?-->
+                <label class="form-label" for="fname">First Name</label>
+                <input class="text-input" type="text" id="fname" name="first_name" placeholder="Your First Name" required>
 
-            <label class="form-label" for="lname">Last Name</label>
-            <input class="text-input" type="text" id="lname" name="last_name" placeholder="Your Last Name" required>
+                <label class="form-label" for="lname">Last Name</label>
+                <input class="text-input" type="text" id="lname" name="last_name" placeholder="Your Last Name" required>
 
-            <label class="form-label" for="email">Email Address</label>
-            <input class="text-input" type="email" id="email" name="email_address" placeholder="Youremail@email.com" required>
+                <label class="form-label" for="email">Email Address</label>
+                <input class="text-input" type="email" id="email" name="email_address" placeholder="Youremail@email.com" required>
 
-            <label for="newsletter">Yes! I'd love to subscribe to the nmewsletter!</label>
-            <input type="radio" id="newsletter" name="newsletter" value="newsletter">
+                <label class="form-label" for="course">Choose a course</label>
+                <select class="course-input" name="course" id="courses">
+                    <option value="none">Choose a course</option>
+                    <option value="smashburger">Smashburger</option>
+                    <option value="chicken-drumsticks">Chicken Drumsticks</option>
+                    <option value="shrimp-lobster">Shrimp & Lobster</option>
+                    <option value="kamado-pizza">Kamado Pizza</option>
+                </select>
 
-            <label for="course">Yes, I want to sign up for the Online courses!</label>
-            <input type="radio" id="course" name="course" value="course">
+                <label for="newsletter">Yes! I'd love to subscribe to the newsletter!</label>
+                <input class="radio-button" type="radio" id="newsletter" name="preference" value="newsletter">
 
-            <label for="both">I want them both!</label>
-            <input type="radio" id="both" name="both" value="both">
+                <label for="course">Yes, I want to sign up for the Online courses!</label>
+                <input class="radio-button" type="radio" id="course" name="preference" value="course">
 
-            <input class="join-button" type="submit" value="Let's BBQ!">
-        </form>
+                <label for="both">I want them both!</label>
+                <input class="radio-button" type="radio" id="both" name="preference" value="both" required>
+
+                <input class="join-button" type="submit" value="Let's BBQ!">
+            </form>
     </section>
     </main>
 </body>
