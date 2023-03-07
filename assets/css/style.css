@@ -535,12 +535,12 @@ p {
 /*Form section sign up page*/
 
 .form-section {
-    padding-top: 150px;
+    padding-top: 50px;
     clear: left;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/serving.jpg);
     background-size: cover;
     background-position: center;
-    height: 1100px;
+    height: 900px;
     font-family: Roboto;
 }
 
@@ -549,7 +549,7 @@ p {
     color: whitesmoke;
     max-width: 600px;
     position: absolute;
-    left: 15%;
+    left: 5%;
     padding: 30px;
 }
 
@@ -889,6 +889,11 @@ footer {
         font-size: 150%;
     }
  /*Form section*/
+ .form-section {
+    padding-top: 50px;
+    height: 1050px;
+}
+
     .join-button {
         display: block;
         margin-top: 30px;
@@ -954,6 +959,11 @@ footer {
         left: 50%;
         transform: translate(-50%,-50%);
     }  
+
+    .form-section {
+        padding-top: 50px;
+        height: 1150px;
+    }
 
     footer {
         margin-top: 20px;
