@@ -532,6 +532,20 @@ p {
 
 }
 
+/*Form section sign up page*/
+
+.form-section {
+    background-color: aquamarine;
+}
+.form-label {
+    font-size: 150%;
+}
+.text-input {
+    width: 20%;
+}
+
+
+
 
 /*Footer*/
 

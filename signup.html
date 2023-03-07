@@ -43,11 +43,35 @@
         <div id="hero-banner">
             <div id="banner-background">
                 <div id="hero-banner-text">
-                <h1>BBQ School</h1>
+                <h1>Sign up today!</h1>
                 </div>
             </div>
         </div>
-        
+
+        <section class="form-section">
+        <form action="">
+            <h2>Let's BBQ!</h2> <!--Can we insert the title icon here?-->
+            <label class="form-label" for="fname">First Name</label>
+            <input class="text-input" type="text" id="fname" name="first_name" placeholder="Your First Name" required>
+
+            <label class="form-label" for="lname">Last Name</label>
+            <input class="text-input" type="text" id="lname" name="last_name" placeholder="Your Last Name" required>
+
+            <label class="form-label" for="email">Email Address</label>
+            <input class="text-input" type="email" id="email" name="email_address" placeholder="Youremail@email.com" required>
+
+            <label for="newsletter">Yes! I'd love to subscribe to the nmewsletter!</label>
+            <input type="radio" id="newsletter" name="newsletter" value="newsletter">
+
+            <label for="course">Yes, I want to sign up for the Online courses!</label>
+            <input type="radio" id="course" name="course" value="course">
+
+            <label for="both">I want them both!</label>
+            <input type="radio" id="both" name="both" value="both">
+
+            <input class="join-button" type="submit" value="Let's BBQ!">
+        </form>
+    </section>
     </main>
 </body>
 </html>
