@@ -425,7 +425,7 @@ p {
 
 /*Navigation images*/
 
-#container-box{
+.container-box{
     display: inline-block;
     max-width: 440px;
     min-width: 220px;
@@ -569,14 +569,14 @@ footer {
 /*For screens with a max width of 1660px*/
 
 @media screen and (max-width: 1680px) {
-    #container-box {
+    .container-box {
         display: flexbox;
         grid-template-columns: 1fr 1fr 1fr;
         margin: auto;
         justify-content: center;
         padding: 5px;
         }
-
+        
     .container-images {
         height: 300px;
         width: 300px;
@@ -592,7 +592,7 @@ footer {
 /*For screens with a min width of 950px and a max width of 1290px*/
 
 @media only screen and (max-width: 1290px) and (min-width:950px) {
-    #container-box {
+    .container-box {
         /*
         display: flexbox;
         grid-template-columns: 1fr 1fr 1fr;
@@ -615,7 +615,7 @@ footer {
 
 /*For screens with a min width of 836px max width of 950px*/
 @media only screen and (max-width: 950px) and (min-width:836px) {
-   /* #container-box {
+   /* .container-box {
         display: flexbox;
         grid-template-columns: 1fr 1fr 1fr;
         margin: auto;
@@ -664,17 +664,20 @@ footer {
         margin-bottom: 30px;
     }
 
+/*Courses images section*/
     #courses-container {
         grid-template-columns: auto auto;
         grid-row-gap: 8%;
     }
 
     .courses-images {
-        min-height: 250px;
-        min-width: 250px;
+        height: 250px;
+        width: 250px;
     }
 
-    /*#container-box { 
+/*Navigation images section*/
+
+    /*.container-box { 
         margin-top: 50px;
         display: flex;
         grid-template-columns: 1fr;
@@ -784,7 +787,7 @@ footer {
         padding-top: 40px;
     }
 
-    #container-box {
+    .container-box {
         height: 250px;
         padding-top: 5px;
     }
