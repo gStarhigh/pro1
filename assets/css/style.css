@@ -193,7 +193,7 @@ p {
     
 }
 
-#courses-box {
+.courses-box {
     display: inline-block;
     max-width: 440px;
     min-width: 220px;
@@ -234,8 +234,7 @@ p {
     z-index: 3;
     font-size: 100%;
 }
-
-#courses-box a {
+.#courses-box a {
     text-decoration: none;
 }
 
