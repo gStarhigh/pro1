@@ -567,10 +567,6 @@ p {
     font-family: Roboto;
 }
 
-.course-option:hover {
-    background-color: #444;
-}
-
 .radio-label{
     font-size: 120%;
 }
