@@ -438,6 +438,8 @@ p {
 }
 
 .container-section {
+    display: grid;
+    grid-template-columns: auto auto;
     max-width: 80%;
     margin: auto;
     align-items: center;
