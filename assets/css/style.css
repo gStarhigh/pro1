@@ -601,9 +601,6 @@ p {
     color: whitesmoke;
 }
 
-
-
-
 /*Congratulations page*/
 .congrats {
     padding-top: 200px;
@@ -624,6 +621,10 @@ footer {
     font-size: 90%;
     bottom: 0;
     z-index: 3;
+}
+
+.footer-signup {
+    margin-top: 0;
 }
 
 .footer-contact {
