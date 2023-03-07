@@ -126,7 +126,7 @@ p {
     color: #444;
 }
 
-.intro-section h1 {
+.intro-section h2 {
     color: #444;
     text-align: center;
     font-size: 200%;
@@ -668,7 +668,7 @@ footer {
 
 @media screen and (max-width: 1680px) {
     .container-box {
-        display: flexbox;
+        display: flex;
         grid-template-columns: 1fr 1fr 1fr;
         margin: auto;
         justify-content: center;
