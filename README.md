@@ -94,9 +94,32 @@ I created the wireframes for this site with Balsamiq. All wireframes can be foun
 
 ![Wireframe of the website on a desktop](/assets/balsamiq/index-balsamic.JPG)
 ![Wireframe of the website on a phone](/assets/balsamiq/index-phone-balsamic.JPG)
-
-
 ---
+
+## General features
+- The website is responsive on all devices.
+- The website is using the same color and font throughout the entire site to make it easy to read and understand, no matter where you are. 
+- The website has the same navigation elements on all pages except the gallery page, which only has the header. 
+    - ### Header
+        - The header is the same on all pages.
+        - The header is the same on all devices.
+        - The header is a sticky header, meaning it will stay at the top of the screen even if you scroll down.
+        - The header is responsive on all devices.
+        - When you hover over the links in the header the text will underline and the font size increases. 
+        - When you click on a link in the header, the font and letter spacing increases to easy indicate what page you are currently on.
+    ### Header on desktop:
+    ![image of the header on a desktop](/assets/balsamiq/header-desktop.JPG)
+
+    ### Header on a phone:
+    ![image of the header on a desktop](/assets/balsamiq/header-phone.JPG)
+
+
+
+### Home Page
+### Courses Page
+### Sign Up Page
+### Gallery Page
+### About page
 
 ## Credits
 - I got help with the flipboxes on the courses page from W3:
