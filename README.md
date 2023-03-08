@@ -52,6 +52,7 @@ Link to the website: [BBQ-School](https://gstarhigh.github.io/pro1/index.html)
 
 - ## Credits
 --- 
+
 ## Project Goals
 
 - Create a website that showcase my skills in Html and CSS.
@@ -68,8 +69,20 @@ Link to the website: [BBQ-School](https://gstarhigh.github.io/pro1/index.html)
 -	As a user I want to be able to sign up for a course.
 -   As a user I want to be able to sign up for a newsletter.
 -	As a user I want to know who is behind the website.
-
 ---
+
+## Colors
+- Text color used:
+    - Whitesmoke
+    - #444
+- Banner color used:
+    - #444
+- Background color used:
+    - Whitesmoke
+    - #444
+    - #555
+--- 
+
 ## Credits
 - I got help with the flipboxes on the courses page from W3:
     - Link: (https://www.w3schools.com/howto/howto_css_flip_box.asp)
