@@ -144,13 +144,28 @@ I created the wireframes for this site with Balsamiq. All wireframes can be foun
 
     - The first 2 courses are blurred out with the text "Coming soon", to implement that the business are always adding new courses and to encourage customers to return to the page to see if they are now available or if new courses are coming. 
     - After those are the 2 two "New" courses and then the 2 "Most popular" courses.
+
+- Below the courses, are a banner with a bookmark icon, with encouragement to revisit the site as we add new courses all the time.
+- Below the stay tuned banner is the 4 navigation images again.
+- At the bottom of the page lies the footer.
 --- 
 
 ### Sign Up Page
-
-
+- The sign up page does not have the same Hero image as the home and courses page. Here is a background image covering the entire main page with a form on it. 
+- The form requires you to:
+    - Fill in a First Name
+    - Fill in a Last Name
+    - Fill in a email address
+    - There is a rolldown option with the courses where you chose what course to take (optional, in case you only want the newsletter)
+    - Chose one of the 3 radio buttons.
+    - There is a submit button, and a reset button. 
+    - The submit button takes you to a "Congratulations page" where you are thanked for signing up.
+    - The reset button, resets the form, and you can start over. 
+--- 
 
 ### Gallery Page
+
+
 ### About page
 
 ## Credits
