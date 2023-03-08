@@ -15,9 +15,6 @@ Link to the website: [BBQ-School](https://gstarhigh.github.io/pro1/index.html)
 
 ## Table of Contents
 ---
- - 
- - 
-
  - ## General Information
 
  - ## Table of Contents
@@ -52,15 +49,34 @@ Link to the website: [BBQ-School](https://gstarhigh.github.io/pro1/index.html)
 
 - ## Final Result
 
-- ## Credits
 
-## Credits:
+- ## Credits
+--- 
+## Project Goals
+
+- Create a website that showcase my skills in Html and CSS.
+- Create a website that is responsive on all devices.
+- Create a website that is easy to navigate with style.
+- Create a website that is easy to understand and read.
+- Create a website where you can sign up for courses and a newsletter.
+---
+## User Stories
+-	As a user I want to be able to navigate the website easily.
+-	As a user I want to be able to read the website easily.
+-	As a user I want to be able to contact the website owner easily.
+-	As a user I want to be able to see what courses there are available.
+-	As a user I want to be able to sign up for a course.
+-   As a user I want to be able to sign up for a newsletter.
+-	As a user I want to know who is behind the website.
+
+---
+## Credits
 - I got help with the flipboxes on the courses page from W3:
     - Link: (https://www.w3schools.com/howto/howto_css_flip_box.asp)
 
 
 ### Images:
----
+
 - The HERO image credit to Kamadojoe.com:
     - Link: (https://cdn.shopify.com/s/files/1/0076/9173/0995/files/TLP_Grills_Page_Component_1_Header.jpg?v=1652208719&width=1920)
 
@@ -68,12 +84,13 @@ Link to the website: [BBQ-School](https://gstarhigh.github.io/pro1/index.html)
 - The other images are provided by Jezper Rundcrantz, a friend of mine.
 
 ### Title Icon:
----
+
 - Icon credit, created by Smashicons - Flaticon.
     - Link: (https://www.flaticon.com/free-icons/grill) 
 
 
 ### Readme.md file:
----
+
 - I used the markdown cheat-sheet to help me with the readme.md file.
 Link: (https://www.markdownguide.org/cheat-sheet/)
+---
