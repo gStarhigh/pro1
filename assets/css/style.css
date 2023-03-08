@@ -620,6 +620,23 @@ p {
     max-height: 900px;
 }
 
+/*About page*/
+
+#about-info {
+    padding-top: 20px;
+}
+
+
+#about-info h2 {
+    color: #444;
+    text-align: center;
+}
+#about-info p {
+    color: #444;
+    text-align: center;
+}
+
+
 
 /*Footer*/
 
