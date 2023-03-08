@@ -10,5 +10,6 @@ Link to the website: [BBQ-School](https://gstarhigh.github.io/pro1/index.html)
 
 I used the markdown cheat-sheet to help me with the readme.md file
 (https://www.markdownguide.org/cheat-sheet/)
-![Image of my website containing a grill](../pro1/assets/balsamiq/fullsize-screenshot.png)
+
+![Image of my website containing a grill](/assets/balsamiq/fullsize-screenshot.png)
 
