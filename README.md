@@ -107,12 +107,24 @@ I created the wireframes for this site with Balsamiq. All wireframes can be foun
         - The header is responsive on all devices.
         - When you hover over the links in the header the text will underline and the font size increases. 
         - When you click on a link in the header, the font and letter spacing increases to easy indicate what page you are currently on.
-    ### Header on desktop:
+    - ### Header on desktop:
     ![image of the header on a desktop](/assets/balsamiq/header-desktop.JPG)
 
-    ### Header on a phone:
+    - ### Header on a phone:
     ![image of the header on a desktop](/assets/balsamiq/header-phone.JPG)
 
+    - ### Footer
+        - The footer is the same on all pages.
+        - The footer is the same on all devices.
+        - The footer will always be on the bottom of the page, even if you scroll up. 
+        - The footer has links to social media platforms.
+        - All the links are working and will open a new window when clicked.
+        - The email link will open a email client.
+    - ### Footer on desktop:
+    ![image of the header on a desktop](/assets/balsamiq/footer-desktop.JPG)
+
+    - ### Footer on a phone:
+    ![image of the header on a desktop](/assets/balsamiq/footer-phone.JPG)
 
 
 ### Home Page
