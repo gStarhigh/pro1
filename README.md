@@ -90,7 +90,7 @@ Link to the website: [BBQ-School](https://gstarhigh.github.io/pro1/index.html)
 ---
 
 ## Wireframes (Balsamiq)
-I created the wireframes for this site with Balsamiq. All wireframes can be found in the folder called "balsamiq"
+I created the wireframes for this site with Balsamiq. All wireframes can be found in the folder called [Balsamiq](https://github.com/gStarhigh/pro1/tree/main/assets/balsamiq)
 
 ![Wireframe of the website on a desktop](/assets/balsamiq/index-balsamic.JPG)
 ![Wireframe of the website on a phone](/assets/balsamiq/index-phone-balsamic.JPG)
