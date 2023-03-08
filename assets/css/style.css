@@ -597,7 +597,7 @@ p {
 /*Congratulations page*/
 .congrats {
     padding-top: 200px;
-    color: black;
+    color: #444;
     font-size: 400%;
 }
 
