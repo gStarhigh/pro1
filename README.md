@@ -31,10 +31,8 @@ Link to the website: [BBQ-School](https://gstarhigh.github.io/pro1/index.html)
 
  - ## General features
     
-- ## Automatic testing
-  
-- ## Manual testing
- 
+- ## Testing
+
 - ## Final Result
 
 - ## Credits
@@ -160,18 +158,41 @@ I created the wireframes for this site with Balsamiq. All wireframes can be foun
 ## Testing
 ### Links, Images, Icons and Buttons:
 Links:
-- All internal links are tested and takes you to the correct page.
-- All external links are tested and opens a new tab to the correct page.
+
 
 Images:
-- All images containg links are working and will send you to the correct page.
 
 Icons:
-- All icons are tested and opens a new tab to the correct page. 
 
 Buttons:
-- All buttons are tested and will take you to the correct page, or do what they say they will.
+
 --- 
+## Code validation
+
+
+## Testing on different browsers
+
+
+## Device testing on different devices
+
+
+## Testing tools used
+
+
+## Commit history
+
+
+## Final Result
+
+
+## Deployment
+
+
+## Github pages
+
+
+
+
 ## Credits
 - I got help with the flipboxes on the courses page from W3:
     - Link: (https://www.w3schools.com/howto/howto_css_flip_box.asp)
