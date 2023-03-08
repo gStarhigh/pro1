@@ -83,6 +83,13 @@ Link to the website: [BBQ-School](https://gstarhigh.github.io/pro1/index.html)
     - #555
 --- 
 
+## Typography
+- Font
+    - The main font used in the project is the Roboto font from googlefonts.
+    - The fallback font is sans-serif. 
+
+---
+
 ## Credits
 - I got help with the flipboxes on the courses page from W3:
     - Link: (https://www.w3schools.com/howto/howto_css_flip_box.asp)
@@ -100,6 +107,10 @@ Link to the website: [BBQ-School](https://gstarhigh.github.io/pro1/index.html)
 
 - Icon credit, created by Smashicons - Flaticon.
     - Link: (https://www.flaticon.com/free-icons/grill) 
+
+### Fonts:
+- I used google fonts as my main font:
+    - Link (https://fonts.google.com/)
 
 
 ### Readme.md file:
