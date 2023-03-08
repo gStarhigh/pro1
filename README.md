@@ -125,11 +125,31 @@ I created the wireframes for this site with Balsamiq. All wireframes can be foun
 
     - ### Footer on a phone:
     ![image of the header on a desktop](/assets/balsamiq/footer-phone.JPG)
-
+--- 
 
 ### Home Page
+- The home page, or index page, is the first page you see when you open the website. It's a big hero banner with a simple text that says "BBQ School". The banner is not clickable but it transforms when you first open the page. This is true for all pages where the banner is displayed. 
+- Underneath the banner is a headline and a short introduction to the website and the idea behind it. 
+- Beneath the introduction section, there is a small banner which also is a link with the encouragement to sign up for our weekly newsletter. Clicking it will take you to the sign up page. 
+- Beneath the Sign up banner, there are 4 navigation images which, when clicked, either takes you to the courses page, the sign up page, the gallery page, or the about us page. 
+    - When you hover over these images, another image will appear, to make the website more alive and fun. The text remains the same. 
+- Under these navigation images the footer lies. 
+--- 
+
 ### Courses Page
+- The courses page starts with the hero banner, which transforms when you arrive at the page. 
+- Below the hero banner there is a headline and a little information and text to encourage you to sign up for a course. 
+- Below the information text, there is a sign up banner, which is the same as the one on the home page. 
+- Below the sign up banner, is 6 courses. When hovered, the 2 first courses unblur, and the other flips, and shows another picture and information about the course.
+
+    - The first 2 courses are blurred out with the text "Coming soon", to implement that the business are always adding new courses and to encourage customers to return to the page to see if they are now available or if new courses are coming. 
+    - After those are the 2 two "New" courses and then the 2 "Most popular" courses.
+--- 
+
 ### Sign Up Page
+
+
+
 ### Gallery Page
 ### About page
 
