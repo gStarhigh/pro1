@@ -13,3 +13,44 @@ I used the markdown cheat-sheet to help me with the readme.md file
 
 ![Image of my website containing a grill](/assets/balsamiq/fullsize-screenshot.png)
 
+## Table of Contents
+---
+ - 
+ - 
+
+ - ## General Information
+
+ - ## Table of Contents
+
+ - ## Project Goals
+
+ - ## User Stories
+
+ - ## Colors
+
+ - ## Typography
+
+ - ## Wireframes (Balsamiq)
+
+ - ## General features
+    - Home Page
+    - Courses Page
+    - Sign Up Page
+    - Gallery Page
+    - About page
+
+- ## Automatic testing
+    - Code Validation for HTML and CSS
+    - Testing on different devices
+
+- ## Manual testing
+    - Home Page
+    - Courses Page
+    - Sign Up Page
+    - Gallery Page
+    - About page
+
+- ## Final Result
+
+- ## Credits
+
