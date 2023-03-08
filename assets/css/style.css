@@ -726,17 +726,6 @@ footer {
         font-size: 80%;
         z-index: 2;
     }
-    /*Navigation images section*/
-    .container-images {
-        height: 250px;
-        width: 100%;
-    }
-    .container-images h3 {
-        top: 40%;
-        left: 50%;
-        transform: translate(-50%,-50%);
-    }
-    
 }
 
 /*For screens with a min width of 836px max width of 950px*/
