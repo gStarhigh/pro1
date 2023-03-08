@@ -286,6 +286,7 @@ p {
 
 #courses-img-5 {
     background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/lobster.jpg);
+/*Image credit: My own image*/
 }
 #courses-img-5-backside {
     background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/schrimp.JPG);
@@ -450,7 +451,7 @@ p {
 /*Need to add all the credits for the pictures*/
 #container-img-1 {
     background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/plate1.JPG);
-    
+/*Image credit: Jezper Rundcrantz*/   
 }
 #container-img-2 {
     background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/serving.jpg);
