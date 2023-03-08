@@ -30,25 +30,12 @@ Link to the website: [BBQ-School](https://gstarhigh.github.io/pro1/index.html)
  - ## Wireframes (Balsamiq)
 
  - ## General features
-    - Home Page
-    - Courses Page
-    - Sign Up Page
-    - Gallery Page
-    - About page
-
+    
 - ## Automatic testing
-    - Code Validation for HTML and CSS
-    - Testing on different devices
-
+  
 - ## Manual testing
-    - Home Page
-    - Courses Page
-    - Sign Up Page
-    - Gallery Page
-    - About page
-
+ 
 - ## Final Result
-
 
 - ## Credits
 --- 
@@ -125,7 +112,6 @@ I created the wireframes for this site with Balsamiq. All wireframes can be foun
 
     - ### Footer on a phone:
     ![image of the header on a desktop](/assets/balsamiq/footer-phone.JPG)
---- 
 
 ### Home Page
 - The home page, or index page, is the first page you see when you open the website. It's a big hero banner with a simple text that says "BBQ School". The banner is not clickable but it transforms when you first open the page. This is true for all pages where the banner is displayed. 
@@ -134,7 +120,6 @@ I created the wireframes for this site with Balsamiq. All wireframes can be foun
 - Beneath the Sign up banner, there are 4 navigation images which, when clicked, either takes you to the courses page, the sign up page, the gallery page, or the about us page. 
     - When you hover over these images, another image will appear, to make the website more alive and fun. The text remains the same. 
 - Under these navigation images the footer lies. 
---- 
 
 ### Courses Page
 - The courses page starts with the hero banner, which transforms when you arrive at the page. 
@@ -148,7 +133,6 @@ I created the wireframes for this site with Balsamiq. All wireframes can be foun
 - Below the courses, are a banner with a bookmark icon, with encouragement to revisit the site as we add new courses all the time.
 - Below the stay tuned banner is the 4 navigation images again.
 - At the bottom of the page lies the footer.
---- 
 
 ### Sign Up Page
 - The sign up page does not have the same Hero image as the home and courses page. Here is a background image covering the entire main page with a form on it. 
@@ -161,13 +145,33 @@ I created the wireframes for this site with Balsamiq. All wireframes can be foun
     - There is a submit button, and a reset button. 
     - The submit button takes you to a "Congratulations page" where you are thanked for signing up.
     - The reset button, resets the form, and you can start over. 
---- 
 
 ### Gallery Page
-
+- The gallery page contains all images used throughout the site, except for the hero banner image. All images are either my own or belongs to a friend (See credits section).
+- The gallery page is responsive and goes from 4 images width to 2, depending on the size of your screen.
+- The images are meant to not be the same size as to make it more fun to watch them all. 
 
 ### About page
+- The About page has the hero banner again.
+- Below that is some information about the site, how it came to be and the person running it.
+- Below the information section is the sign-up banner and then the 4 navigation images and finally the footer.
+--- 
 
+## Testing
+### Links, Images, Icons and Buttons:
+Links:
+- All internal links are tested and takes you to the correct page.
+- All external links are tested and opens a new tab to the correct page.
+
+Images:
+- All images containg links are working and will send you to the correct page.
+
+Icons:
+- All icons are tested and opens a new tab to the correct page. 
+
+Buttons:
+- All buttons are tested and will take you to the correct page, or do what they say they will.
+--- 
 ## Credits
 - I got help with the flipboxes on the courses page from W3:
     - Link: (https://www.w3schools.com/howto/howto_css_flip_box.asp)
