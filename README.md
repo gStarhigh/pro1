@@ -186,12 +186,16 @@ Buttons:
 
 
 ## Deployment
-
+- This website was developed using Gitpod which I used to commit and push to GitHub using the terminal in GitPod. 
+---
 
 ## Github pages
-
-
-
+- Here are the steps to deploy this website to GitHub Pages from its GitHub repository:
+- Log in to GitHub and locate the GitHub Repository.
+- At the top of the Repository, locate the Settings button on the menu.
+- Under Source, click the dropdown called None and select Main Branch.
+- The page will refresh automatically and generate a link to your website.
+---
 
 ## Credits
 - I got help with the flipboxes on the courses page from W3:
