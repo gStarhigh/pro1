@@ -608,13 +608,13 @@ p {
 }
 
 /*Congratulations page*/
-#congratulations-section {
+#thank-you-section {
     padding: 180px 0px 80px 0px;
     max-width: 50%;
     margin: auto;
 }
 
-#congratulations-box {
+#thank-you-box {
     color: whitesmoke;
     padding: 30px;
     background-color: whitesmoke;
@@ -627,11 +627,11 @@ p {
     font-size: 150%;
     border-radius: 20px;
 }
-#congratulations-box h2 {
+#thank-you-box h2 {
     font-size: 180%;
 }
 
-#congratulations-box p {
+#thank-you-box p {
     padding-top: 100px;
 }
 
