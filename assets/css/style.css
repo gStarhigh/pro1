@@ -630,18 +630,20 @@ p {
 
 /*About page*/
 
-#about-info {
+#about-section {
     padding-top: 20px;
+    width: 50%;
+    margin: auto;
 }
 
-
-#about-info h2 {
+#about-section h2 {
     color: #444;
     text-align: center;
 }
-#about-info p {
+#about-section p {
     color: #444;
     text-align: center;
+    justify-content: center;
 }
 
 
