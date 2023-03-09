@@ -609,8 +609,8 @@ p {
 
 /*Congratulations page*/
 #congratulations-section {
-    padding: 200px 0px 50px 0;
-    width: 50%;
+    padding: 150px 0px 50px 0;
+    max-width: 50%;
     margin: auto;
 }
 
@@ -618,9 +618,37 @@ p {
     color: whitesmoke;
     padding: 30px;
     background-color: whitesmoke;
-    background: linear-gradient(rgba(231, 198, 8, 0.3), rgba(227, 243, 5, 0.3));
-    height: 400px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../images/KamadoJoe-ElasticPictures_01.jpg);
+/*Image credit: https://elasticpictures.com/featured/kamadojoe_redesigned/*/    
+    background-size: cover;
+    background-position: center;
+    height: 450px;
     text-align: center;
+    font-size: 150%;
+    border-radius: 20px;
+}
+#congratulations-box h2 {
+    font-size: 180%;
+}
+
+#congratulations-box p {
+    padding-top: 100px;
+}
+
+#go-home {
+    display: inline-block;
+    margin-top: 50px;
+    font-size: 150%;
+    color: whitesmoke;
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
+    border-color: whitesmoke;
+    border-radius: 20px;
+    padding: 10px 40px;
+}
+
+#go-home:hover {
+    cursor: pointer;
+    font-size: 180%;
 }
 
 
