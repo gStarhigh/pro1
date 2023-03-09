@@ -35,7 +35,7 @@ Link to the website: [BBQ-School](https://gstarhigh.github.io/pro1/index.html)
 
 - ## [Final Result](#final-result)
 
-- ## [Credits](#credits)
+- ## [Credits](#credits-1)
 --- 
 
 ## Project Goals
