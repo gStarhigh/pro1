@@ -135,6 +135,13 @@ p {
     font-weight: 400;
 }
 
+.intro-section h3 {
+    color: #444;
+    text-align: center;
+    font-size: 150%;
+    font-weight: 400;
+}
+
 /*Sign up banner on index page*/
 
 #sign-up-banner {
