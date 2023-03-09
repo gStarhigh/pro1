@@ -608,11 +608,22 @@ p {
 }
 
 /*Congratulations page*/
-.congrats {
+#congratulations-section {
     padding-top: 200px;
-    color: #444;
-    font-size: 400%;
+    width: 50%;
+    margin: auto;
 }
+
+#congratulations-box {
+    color: whitesmoke;
+    padding: 30px;
+    background-color: whitesmoke;
+    background: linear-gradient(rgba(221, 12, 12, 0.5), rgba(74, 13, 241, 0.5));
+    height: 400px;
+    text-align: center;
+}
+
+
 
 /*Gallery page*/
 
@@ -808,7 +819,7 @@ footer {
 @media screen and (max-width: 835px) {
     #navbar {
         width: 100%;
-        font-size: 90%;       
+        font-size: 90%;
     }
 
     #hero-banner {
