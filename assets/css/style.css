@@ -74,10 +74,10 @@ p {
 
 #hero-banner {
     padding-top: 85px;
-    height: 650px;
-    width: 70%;
+    height: 400px;
+    width: 100%;
     margin: auto;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
 #banner-background {
@@ -105,7 +105,7 @@ p {
 
 @keyframes banner-zoom {
     from {
-        transform: scale(0.9);
+        transform: scale(0.8);
         border-radius: 50%;
     }
     to {
