@@ -45,14 +45,15 @@
         <section class="form-section">
             <form action="congratulations.html" method="get" class="signup-form">
                 <h2>Let's BBQ!</h2>
-                <label class="form-label" for="fname">First Name</label>
+                <label class="form-label" for="fname">First Name *</label>
                 <input class="text-input" type="text" id="fname" name="first_name" placeholder="Your First Name"
-                    required>
+                    pattern="[A-Öa-ö]+" autofocus required>
 
-                <label class="form-label" for="lname">Last Name</label>
-                <input class="text-input" type="text" id="lname" name="last_name" placeholder="Your Last Name" required>
+                <label class="form-label" for="lname">Last Name *</label>
+                <input class="text-input" type="text" id="lname" name="last_name" placeholder="Your Last Name"
+                    pattern="[A-Öa-ö]+" required>
 
-                <label class="form-label" for="email">Email Address</label>
+                <label class="form-label" for="email">Email Address *</label>
                 <input class="text-input" type="email" id="email" name="email_address" placeholder="Youremail@email.com"
                     required>
 
