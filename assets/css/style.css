@@ -9,7 +9,7 @@ body {
     margin: 0;
 /*Fallback Background color incase a browser does not support gradient*/
     background-color: rgba(182, 182, 149, 0.692); 
-    background-image: linear-gradient(grey,whitesmoke,grey);
+    background-image: linear-gradient(rgb(150, 150, 150),whitesmoke,rgb(150, 150, 150));
 /*Help with the background color linear from W3 schools - https://www.w3schools.com/css/css3_gradients.asp*/
     height: 100%; 
 }
@@ -129,6 +129,7 @@ p {
 
 .intro-section p {
     color: #444;
+    text-align: center;
 }
 
 .intro-section h2 {
@@ -636,6 +637,11 @@ p {
     margin: auto;
 }
 
+.about-text {
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1));
+    border-radius: 10px;
+}
+
 #about-section h2 {
     color: #444;
     text-align: center;
@@ -643,10 +649,7 @@ p {
 #about-section p {
     color: #444;
     text-align: center;
-    justify-content: center;
 }
-
-
 
 /*Footer*/
 
