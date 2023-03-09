@@ -11,7 +11,7 @@ The purpose of this website is to promote myself and my skills in Html and CSS. 
 Link to the website: [BBQ-School](https://gstarhigh.github.io/pro1/index.html)
 
 
-![Image of my website containing a grill](/assets/balsamiq/fullsize-screenshot.png)
+![Image of my website containing a grill](/assets/balsamiq/gstarhigh.github.io_pro1_index.html%20(1).png)
 
 ## Table of Contents
 ---
