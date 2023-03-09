@@ -15,27 +15,27 @@ Link to the website: [BBQ-School](https://gstarhigh.github.io/pro1/index.html)
 
 ## Table of Contents
 ---
- - ## General Information
+ - ## [General Information](#general-information)
 
- - ## Table of Contents
+ - ## [Table of Contents](#table-of-contents)
 
- - ## Project Goals
+ - ## [Project Goals](#project-goals)
 
- - ## User Stories
+ - ## [User Stories](#user-stories)
 
- - ## Colors
+ - ## [Colors](#colors)
 
- - ## Typography
+ - ## [Typography](#typography)
 
- - ## Wireframes (Balsamiq)
+ - ## [Wireframes (Balsamiq)](#wireframes-balsamiq)
 
- - ## General features
+ - ## [General features](#general-features)
     
-- ## Testing
+- ## [Testing](#testing)
 
-- ## Final Result
+- ## [Final Result](#final-result)
 
-- ## Credits
+- ## [Credits](#credits)
 --- 
 
 ## Project Goals
