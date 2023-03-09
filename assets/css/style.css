@@ -7,7 +7,10 @@
 body {
     padding: 0;
     margin: 0;
-    background-color: rgba(182, 182, 149, 0.692);   
+/*Fallback Background color incase a browser does not support gradient*/
+    background-color: rgba(182, 182, 149, 0.692); 
+    background-image: linear-gradient(grey,whitesmoke,grey);
+/*Help with the background color linear from W3 schools - https://www.w3schools.com/css/css3_gradients.asp*/
     height: 100%; 
 }
 
