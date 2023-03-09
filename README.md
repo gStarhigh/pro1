@@ -208,7 +208,6 @@ Buttons:
 
 
 ### Images:
-
 - The HERO image credit to Kamadojoe.com:
     - Link: (https://cdn.shopify.com/s/files/1/0076/9173/0995/files/TLP_Grills_Page_Component_1_Header.jpg?v=1652208719&width=1920)
 
@@ -216,7 +215,6 @@ Buttons:
 - The other images are provided by Jezper Rundcrantz, a friend of mine.
 
 ### Title Icon:
-
 - Icon credit, created by Smashicons - Flaticon.
     - Link: (https://www.flaticon.com/free-icons/grill) 
 
@@ -226,7 +224,6 @@ Buttons:
 
 
 ### Readme.md file:
-
 - I used the markdown cheat-sheet to help me with the readme.md file.
 Link: (https://www.markdownguide.org/cheat-sheet/)
 ---
