@@ -609,7 +609,7 @@ p {
 
 /*Congratulations page*/
 #congratulations-section {
-    padding-top: 200px;
+    padding: 200px 0px 50px 0;
     width: 50%;
     margin: auto;
 }
@@ -618,7 +618,7 @@ p {
     color: whitesmoke;
     padding: 30px;
     background-color: whitesmoke;
-    background: linear-gradient(rgba(221, 12, 12, 0.5), rgba(74, 13, 241, 0.5));
+    background: linear-gradient(rgba(231, 198, 8, 0.3), rgba(227, 243, 5, 0.3));
     height: 400px;
     text-align: center;
 }
