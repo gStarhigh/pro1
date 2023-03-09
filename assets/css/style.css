@@ -679,6 +679,8 @@ p {
 .about-text {
     background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1));
     border-radius: 10px;
+    padding: 2px;
+    margin: 20px;
 }
 
 #about-section h2 {
@@ -982,6 +984,10 @@ footer {
     /*Gallery*/
     #gallery {
         column-count: 2;
+    }
+
+    #about-section {
+        width: 80%;
     }
 }
 
