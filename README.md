@@ -206,6 +206,9 @@ Buttons:
 - I got help with the flipboxes on the courses page from W3:
     - Link: (https://www.w3schools.com/howto/howto_css_flip_box.asp)
 
+- I got help with targeting all colors on the page with "var" element from W3:
+    - Link : (https://www.w3schools.com/css/css3_variables.asp)
+
 
 ### Images:
 - The HERO image credit to Elasticpictures.com:
