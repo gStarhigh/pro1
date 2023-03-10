@@ -965,12 +965,14 @@ footer {
         font-size: 150%;
     }
 
+    /*About you page*/
     #about-section {
         width: 80vw;
     }
 
+    /*Congratulations page*/
     #thank-you-section {
-        max-width: 100vw;
+        max-width: 90vw;
     }
 
     #thank-you-box {
@@ -1065,10 +1067,6 @@ footer {
         width: 100vw;
     }
 
-    #thank-you-section {
-        max-width: 100vw;
-    }
-
     #thank-you-box {
         min-height: 70vh;
     }
@@ -1128,10 +1126,6 @@ footer {
 
     footer {
         margin-top: 20px;
-    }
-
-    #thank-you-section {
-        max-width: 90vw;
     }
 
     #thank-you-box {
