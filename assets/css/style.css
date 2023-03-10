@@ -7,6 +7,7 @@
     --whitetext: #F5F5F5;
     --greytext: #444;
     --greybg: #555;
+    /*Credit to my mentor Jack W for suggesting an easier way to target all colors, info found on:https://www.w3schools.com/css/css3_variables.asp*/
 }
 
 /*Body elements*/
