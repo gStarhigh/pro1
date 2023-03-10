@@ -1004,7 +1004,12 @@ footer {
         display: grid;
         grid-template-columns: auto;
         max-width: 100%;
-        padding-top: 100px;
+        padding-top: 30px;
+    }
+
+    .container-images {
+        height: 30vh;
+        width: 100vw;
     }
 
     .container-images h3 {
@@ -1083,13 +1088,8 @@ footer {
         padding-top: 5px;
     }
 
-    .container-images {
-        height: 200px;
-        width: 200px;
-    }
-
     .container-images h3 {
-        top: 30%;
+        top: 40%;
         left: 50%;
         transform: translate(-50%, -50%);
     }
