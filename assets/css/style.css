@@ -957,6 +957,10 @@ footer {
         transform: translate(-50%, -50%);
         font-size: 150%;
     }
+
+    #about-section {
+        width: 80vw;
+    }
 }
 
 
@@ -1043,7 +1047,7 @@ footer {
     }
 
     #about-section {
-        width: 80%;
+        width: 100vw;
     }
 }
 
