@@ -184,7 +184,9 @@ All the buttons are working and will take you to the correct page.
     - W3C Validator for CSS shows no errors on any page.
 
 ## Testing on different browsers
-
+- The website is tested on different devices. The website is responsive on all tested devices. 
+- The website is tested on different browsers. The website is working on all tested browsers.
+    - Tested browsers: Chrome, Edge & Firefox.
 
 
 ## Device testing on different devices
