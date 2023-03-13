@@ -490,7 +490,6 @@ p {
     box-shadow: 0px 0px 19px 5px rgba(0, 0, 0, 0.19);
 }
 
-/*Need to add all the credits for the pictures*/
 #container-img-1 {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/plate1.JPG);
     /*Image credit: Jezper Rundcrantz*/
@@ -1109,18 +1108,6 @@ footer {
 
 @media screen and (max-width: 320px) {
 
-    /*
-    #navbar {
-        font-size: 40%;
-        text-align: center;
-        justify-content: center;
-    }
-
-    #hero-banner {
-        padding-top: 74px;
-        height: 250px;
-    }
-*/
     .intro-section h1 {
         font-size: 110%;
         text-transform: uppercase;
