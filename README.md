@@ -62,12 +62,13 @@ Link to the website: [BBQ-School](https://gstarhigh.github.io/pro1/index.html)
 
 ## Colors
 - Text color used:
-    - Whitesmoke
+    - Whitesmoke (#F5F5F5)
     - #444
 - Banner color used:
     - #444
 - Background color used:
-    - Whitesmoke
+    - Whitesmoke (#F5F5F5)
+    - RGB (180, 180 , 180)
     - #444
     - #555
 --- 
@@ -89,10 +90,10 @@ The wireframes should not be considered finished product, but as a tool I used a
 ## General features
 - The website is responsive on all devices.
 - The website is using the same color and font throughout the entire site to make it easy to read and understand, no matter where you are. 
-- The website has the same navigation elements on all pages except the gallery page, which only has the header. 
+- The website has the same navigation elements on the index and courses page, the others only has the header.
     - ### Header
         - The header is the same on all pages.
-        - The header is the same on all devices.
+        - The header is the same on all devices above 490px. Under 490px the header becomes a column instead. 
         - The header is a sticky header, meaning it will stay at the top of the screen even if you scroll down.
         - The header is responsive on all devices.
         - When you hover over the links in the header the text will underline and the font size increases. 
