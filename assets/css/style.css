@@ -398,6 +398,9 @@ p {
     color: var(--whitetext);
     z-index: 2;
     font-size: 170%;
+    -webkit-backface-visibility: hidden;
+    /* Safari */
+    backface-visibility: hidden;
 }
 
 .courses-figcaption-backside {
