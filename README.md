@@ -141,9 +141,9 @@ The wireframes should not be considered finished product, but as a tool I used a
 ### Sign Up Page
 - The sign up page does not have the same Hero image as the home and courses page. Here is a background image covering the entire main page with a form on it. 
 - The form requires you to:
-    - Fill in a First Name
-    - Fill in a Last Name
-    - Fill in a email address
+    - Fill in a First Name (An asterix indicates that this is mandatory)
+    - Fill in a Last Name (An asterix indicates that this is mandatory)
+    - Fill in a email address (An asterix indicates that this is mandatory)
     - There is a rolldown option with the courses where you chose what course to take (optional, in case you only want the newsletter)
     - Chose one of the 3 radio buttons.
     - There is a submit button, and a reset button. 
@@ -157,24 +157,31 @@ The wireframes should not be considered finished product, but as a tool I used a
 
 ### About page
 - The About page has the hero banner again.
-- Below that is some information about the site, how it came to be and the person running it.
-- Below the information section is the sign-up banner and then the 4 navigation images and finally the footer.
+- Below that is some information about the person behind the site, how the site came to be and how to contact the site owner.
+- Below the information section lies the footer.
 --- 
 
 ## Testing
 ### Links, Images, Icons and Buttons:
 Links:
-
-
+- All the links are working an will take you to the correct page.
 Images:
 
 Icons:
-
+- All the external links are working and will open a new tab and take you to the correct page. 
+- All the internal links are working and will take you to the correct page. 
 Buttons:
-
+All the buttons are working and will take you to the correct page.
 --- 
 ## Code validation
+- All code on the site has been validated, both HTML and CSS, by use of the W3C validator. 
+### HTML
+- W3C - HTML validator: (https://validator.w3.org/)
+    - W3C Validator for HTML shows no errors on any page.
 
+### CSS
+- W3C - CSS Validator: (https://jigsaw.w3.org/css-validator/)
+    - W3C Validator for CSS shows no errors on any page.
 
 ## Testing on different browsers
 
