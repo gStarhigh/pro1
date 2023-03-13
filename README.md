@@ -141,9 +141,9 @@ The wireframes should not be considered finished product, but as a tool I used a
 ### Sign Up Page
 - The sign up page does not have the same Hero image as the home and courses page. Here is a background image covering the entire main page with a form on it. 
 - The form requires you to:
-    - Fill in a First Name (An asterix indicates that this is mandatory)
-    - Fill in a Last Name (An asterix indicates that this is mandatory)
-    - Fill in a email address (An asterix indicates that this is mandatory)
+    - Fill in a First Name (An asterix indicates that this is required)
+    - Fill in a Last Name (An asterix indicates that this is required)
+    - Fill in a email address (An asterix indicates that this is required)
     - There is a rolldown option with the courses where you chose what course to take (optional, in case you only want the newsletter)
     - Chose one of the 3 radio buttons.
     - There is a submit button, and a reset button. 
