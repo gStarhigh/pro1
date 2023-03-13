@@ -272,5 +272,5 @@ All screenshots are taken from Chrome Dev tools.
 
 ### Readme.md file:
 - I used the markdown cheat-sheet to help me with the readme.md file.
-Link: (https://www.markdownguide.org/cheat-sheet/)
+    - Link: (https://www.markdownguide.org/cheat-sheet/)
 ---
