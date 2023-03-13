@@ -218,6 +218,19 @@ All the buttons are working and will take you to the correct page.
 - The commit history for this website can be found on Github: (https://github.com/gStarhigh/pro1/commits/main)
 
 ## Final Result
+The final result is a website that is responsive on all tested devices and browsers. The website is validated with W3C validator. The website works on all tested devices and browsers.
+- Here is a link to the website: (https://gstarhigh.github.io/pro1/index.html)
+### Below is captured screenshots of the website on Desktop:
+All screenshots are taken from Chrome Dev tools.
+![Image of my index page](/assets/balsamiq/index-fullsize.png)
+![Image of my courses page](/assets/balsamiq/courses-fullsize.png)
+![Image of my sign-up page](/assets/balsamiq/sign-up-fullsize.png)
+![Image of my congratulations page](/assets/balsamiq/congratulations-fullsize.png)
+![Image of my gallery page](/assets/balsamiq/gallery-fullsize.png)
+![Image of my about page](/assets/balsamiq/about-fullsize.png)
+
+### Below is captured screenshots of the website on a phone sized screen:
+
 
 
 ## Deployment
