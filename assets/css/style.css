@@ -1091,8 +1091,16 @@ footer {
         width: 100vw;
     }
 
+    #thank-you-section {
+        padding: 300px 0px 40px 0px;
+    }
+
     #thank-you-box {
         min-height: 70vh;
+    }
+
+    #go-home {
+        font-size: 80%;
     }
 }
 
