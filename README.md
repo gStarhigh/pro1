@@ -171,7 +171,7 @@ The wireframes should not be considered finished product, but as a tool I used a
 - All the external links are working and will open a new tab and take you to the correct page. 
 - All the internal links are working and will take you to the correct page. 
 #### Buttons:
-All the buttons are working and will take you to the correct page.
+- All the buttons are working and will take you to the correct page.
 --- 
 ## Code validation
 - All code on the site has been validated, both HTML and CSS, by use of the W3C validator. 
