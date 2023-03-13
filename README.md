@@ -229,13 +229,9 @@ All screenshots are taken from Chrome Dev tools.
 ![Image of my gallery page](/assets/balsamiq/gallery-fullsize.png)
 ![Image of my about page](/assets/balsamiq/about-fullsize.png)
 
-### Below is captured screenshots of the website on a phone sized screen:
-![Image of my index page](/assets/balsamiq/about-phone.png)
-![Image of my courses page](/assets/balsamiq/courses-phone.png)
-![Image of my sign-up page](/assets/balsamiq/sign-up-phone.png)
-![Image of my congratulations page]()
-![Image of my gallery page]()
-![Image of my about page]()
+### Below is captured screenshots of the website on a phone sized screen (put together in balsamiq to be able to show all next to each other):
+![Image of my index page](/assets/balsamiq/all-pages-phonesize.JPG)
+
 
 ## Deployment
 - This website was developed using Gitpod which I used to commit and push to GitHub using the terminal in GitPod. 
