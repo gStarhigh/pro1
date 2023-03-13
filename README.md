@@ -212,7 +212,8 @@ The wireframes should not be considered finished product, but as a tool I used a
 
 ## Testing tools used
 - I have tested the site in Chrome Dev tools. 
-- I also tested the site on my phone (Nothing phone 1)
+- I have tested the site on different browsers using my PC.
+- I have tested the site on my phone (Nothing phone 1) using chrome.
 
 ## Commit history
 - The commit history for this website can be found on Github: (https://github.com/gStarhigh/pro1/commits/main)
