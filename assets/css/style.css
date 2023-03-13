@@ -999,7 +999,7 @@ footer {
     }
 
     #hero-banner {
-        padding-top: 284px;
+        padding-top: 280px;
     }
 
     #hero-banner-text {
@@ -1081,6 +1081,7 @@ footer {
 
 @media screen and (max-width: 320px) {
 
+    /*
     #navbar {
         font-size: 40%;
         text-align: center;
@@ -1091,7 +1092,7 @@ footer {
         padding-top: 74px;
         height: 250px;
     }
-
+*/
     .intro-section h1 {
         font-size: 110%;
         text-transform: uppercase;
