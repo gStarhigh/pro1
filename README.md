@@ -186,7 +186,7 @@ The wireframes should not be considered finished product, but as a tool I used a
 ## Testing on different browsers
 - The website is tested on different devices. The website is responsive on all tested devices. 
 - The website is tested on different browsers. The website is working on all tested browsers.
-    - Tested browsers: Chrome, Edge & Firefox.
+    - Tested browsers: Chrome, Edge, Safari & Firefox.
 
 
 ## Device testing on different devices
@@ -213,6 +213,7 @@ The wireframes should not be considered finished product, but as a tool I used a
 ## Testing tools used
 - I have tested the site in Chrome Dev tools. 
 - I have tested the site on different browsers using my PC.
+- I have tested the site using (https://www.browserstack.com/).
 - I have tested the site on my phone (Nothing phone 1) using chrome.
 
 ## Commit history
