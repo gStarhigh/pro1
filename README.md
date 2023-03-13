@@ -181,7 +181,7 @@ The wireframes should not be considered finished product, but as a tool I used a
 
 ### CSS
 - W3C - CSS Validator: (https://jigsaw.w3.org/css-validator/)
-    - W3C Validator for CSS shows no errors on any page.
+    - W3C Validator for CSS shows no errors in the style.css file.
 
 ## Testing on different browsers
 - The website is tested on different devices. The website is responsive on all tested devices. 
