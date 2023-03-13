@@ -11,7 +11,7 @@ The purpose of this website is to promote myself and my skills in Html and CSS. 
 Link to the website: [BBQ-School](https://gstarhigh.github.io/pro1/index.html)
 
 
-![Image of my website containing a grill](/assets/balsamiq/gstarhigh.github.io_pro1_index.html%20(1).png)
+![Image of my website containing a grill](/assets/balsamiq/index-fullsize.png)
 
 ## Table of Contents
 ---
@@ -215,7 +215,7 @@ All the buttons are working and will take you to the correct page.
 - I also tested the site on my phone (Nothing phone 1)
 
 ## Commit history
-
+- The commit history for this website can be found on Github: (https://github.com/gStarhigh/pro1/commits/main)
 
 ## Final Result
 
