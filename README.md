@@ -132,7 +132,7 @@ The wireframes should not be considered finished product, but as a tool I used a
 - Below the sign up banner, is 6 courses. When hovered, the 2 first courses unblur, and the other flips, and shows another picture and information about the course.
 
     - The first 2 courses are blurred out with the text "Coming soon", to implement that the business are always adding new courses and to encourage customers to return to the page to see if they are now available or if new courses are coming. 
-    - After those are the 2 two "New" courses and then the 2 "Most popular" courses.
+    - After those are the 2 two "New" courses and then the 2 "Popular" courses.
 
 - Below the courses, are a banner with a bookmark icon, with encouragement to revisit the site as we add new courses all the time.
 - Below the stay tuned banner is the 4 navigation images again.
