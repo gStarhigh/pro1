@@ -190,10 +190,29 @@ All the buttons are working and will take you to the correct page.
 
 
 ## Device testing on different devices
-
+- The website is working and is responsive on all tested devices:
+    - iPhone SE
+    - iPhone 6/7/8
+    - iPhone 6/7/8 plus
+    - iPhone X
+    - iPhone XR
+    - iPhone 12pro
+    - iPad
+    - iPad Air
+    - iPad Mini
+    - Pixel 5
+    - Samsung Galaxy S8+
+    - Samsung Galaxy S20 Ultra
+    - Surface Pro 7
+    - Surface Duo
+    - Samsung Galaxy Fold
+    - Samsung Galaxy A51/71
+    - Nest Hub
+    - Nothin phone 1
 
 ## Testing tools used
-
+- I have tested the site in Chrome Dev tools. 
+- I also tested the site on my phone (Nothing phone 1)
 
 ## Commit history
 
