@@ -166,7 +166,7 @@ The wireframes should not be considered finished product, but as a tool I used a
 Links:
 - All the links are working an will take you to the correct page.
 Images:
-
+- All links within the images are working and will take you to the correct page.
 Icons:
 - All the external links are working and will open a new tab and take you to the correct page. 
 - All the internal links are working and will take you to the correct page. 
