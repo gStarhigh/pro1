@@ -12,14 +12,16 @@
 
 /*Body elements*/
 
-body {
+body,
+html {
     padding: 0;
     margin: 0;
     /*Fallback Background color incase a browser does not support gradient*/
     background-color: rgba(182, 182, 149, 0.692);
     background-image: linear-gradient(rgb(180, 180, 180), whitesmoke, rgb(180, 180, 180));
     /*Help with the background color linear from W3 schools - https://www.w3schools.com/css/css3_gradients.asp*/
-    height: 100%;
+    min-height: 100%;
+    min-width: 100vw;
 }
 
 body,
@@ -45,7 +47,7 @@ p {
     justify-content: center;
     align-items: center;
     background-color: var(--greybg);
-    width: 100%;
+    width: 100vw;
     z-index: 10;
     height: auto;
 }
@@ -986,14 +988,18 @@ footer {
 
 @media screen and (max-width: 490px) {
     #navbar {
-        width: 100%;
-        font-size: 40%;
+        width: 100vw;
         text-align: center;
         justify-content: center;
     }
 
+    #navbar-links ul {
+        flex-direction: column;
+        font-size: 100%;
+    }
+
     #hero-banner {
-        padding-top: 73px;
+        padding-top: 284px;
     }
 
     #hero-banner-text {
@@ -1031,7 +1037,7 @@ footer {
 
     .container-images {
         height: 30vh;
-        width: 100vw;
+        width: 90vw;
     }
 
     .container-images h3 {
