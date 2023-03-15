@@ -1011,7 +1011,7 @@ footer {
     }
 
     #hero-banner {
-        padding-top: 213px;
+        padding-top: 211px;
     }
 
     #hero-banner-text {
@@ -1071,7 +1071,7 @@ footer {
 
     /*Form section*/
     .form-section {
-        padding-top: 290px;
+        padding-top: 260px;
         height: 1010px;
     }
 
@@ -1090,7 +1090,7 @@ footer {
     /*Gallery*/
     #gallery {
         column-count: 2;
-        padding-top: 213px;
+        padding-top: 211px;
     }
 
     /*About page*/
