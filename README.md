@@ -96,7 +96,7 @@ The wireframes should not be considered finished product, but as a tool I used a
         - The header is the same on all devices above 490px. Under 490px the header becomes a column instead. 
         - The header is a sticky header, meaning it will stay at the top of the screen even if you scroll down.
         - The header is responsive on all devices.
-        - When you hover over the links in the header the text will underline and the font size increases. 
+        - When you hover over the links in the header the text will underline. 
         - When you click on a link in the header, the font and letter spacing increases to easy indicate what page you are currently on.
     - ### Header on desktop:
     ![image of the header on a desktop](/assets/balsamiq/header-desktop.JPG)
