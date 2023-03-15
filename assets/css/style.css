@@ -1007,7 +1007,7 @@ footer {
     }
 
     #hero-banner {
-        padding-top: 280px;
+        padding-top: 260px;
     }
 
     #hero-banner-text {
@@ -1086,13 +1086,15 @@ footer {
     /*Gallery*/
     #gallery {
         column-count: 2;
-        padding-top: 284px;
+        padding-top: 260px;
     }
 
+    /*About page*/
     #about-section {
         width: 100vw;
     }
 
+    /*Congratulations page*/
     #thank-you-section {
         padding: 300px 0px 40px 0px;
     }
