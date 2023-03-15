@@ -266,10 +266,6 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 - I got help with targeting all colors on the page with "var" element from W3:
     - Link : (https://www.w3schools.com/css/css3_variables.asp)
 
-- I got help with the readme file from CodeInstitutes samplereadme.
-    - Link : (https://github.com/code-institute-solutions/samplereadme)
-
-
 ### Images:
 - The HERO image credit to Elasticpictures.com:
     - Link: (https://elasticpictures.com/featured/kamadojoe_redesigned/)
@@ -289,4 +285,7 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ### Readme.md file:
 - I used the markdown cheat-sheet to help me with the readme.md file.
     - Link: (https://www.markdownguide.org/cheat-sheet/)
+
+- I got help with the readme file from CodeInstitutes samplereadme.
+    - Link : (https://github.com/code-institute-solutions/samplereadme)
 ---
