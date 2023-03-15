@@ -335,7 +335,7 @@ p {
     /*Image credit: Jezper Rundcrantz*/
 }
 
-
+/*Got help with the flipboxes from W3: https://www.w3schools.com/howto/howto_css_flip_box.asp*/
 /* The flip box container*/
 .flip-box {
     width: 350px;
@@ -422,9 +422,6 @@ p {
     font-style: italic;
     z-index: 2;
 }
-
-/*Got help with the flipboxes from W3: https://www.w3schools.com/howto/howto_css_flip_box.asp*/
-
 
 /*Stay tuned banner*/
 
