@@ -232,7 +232,7 @@ All screenshots are taken from Chrome Dev tools.
 ![Image of my about page](/assets/balsamiq/about-fullsize.png)
 
 ### Below is captured screenshots of the website on a phone sized screen (put together in balsamiq to be able to show all next to each other):
-![Image of my index page](/assets/balsamiq/all-pages-phonesize.JPG)
+![Image of my index page](/assets/balsamiq/all-phone-2.JPG)
 
 ---
 ## Deployment
