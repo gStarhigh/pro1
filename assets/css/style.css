@@ -3,15 +3,15 @@
 
 
 /*Root var elements*/
+/*Credit to my mentor Jack W for suggesting an easier way to target all colors, info found on:https://www.w3schools.com/css/css3_variables.asp*/
 :root {
     --whitetext: #F5F5F5;
     --greytext: #444;
     --greybg: #555;
-    /*Credit to my mentor Jack W for suggesting an easier way to target all colors, info found on:https://www.w3schools.com/css/css3_variables.asp*/
 }
 
 /*Body elements*/
-
+/*Help with the background color linear from W3 schools - https://www.w3schools.com/css/css3_gradients.asp*/
 body,
 html {
     padding: 0;
@@ -19,7 +19,6 @@ html {
     /*Fallback Background color incase a browser does not support gradient*/
     background-color: rgba(182, 182, 149, 0.692);
     background-image: linear-gradient(rgb(180, 180, 180), whitesmoke, rgb(180, 180, 180));
-    /*Help with the background color linear from W3 schools - https://www.w3schools.com/css/css3_gradients.asp*/
     min-height: 100%;
     max-width: 100vw;
 }
